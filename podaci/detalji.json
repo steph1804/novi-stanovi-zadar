@@ -27,6 +27,10 @@
   "novogradnja": true,
   "sobe": 3
  },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-bili-brig-5311.html": {
+  "novogradnja": true,
+  "sobe": 3
+ },
  "https://www.demare.hr/nekretnine/stanovi/zadar-bili-brig-5360.html": {
   "novogradnja": true,
   "sobe": 4
@@ -58,6 +62,30 @@
  "https://www.demare.hr/nekretnine/stanovi/zadar-borik-5359.html": {
   "novogradnja": false,
   "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-borik-5435.html": {
+  "novogradnja": true,
+  "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-borik-5436.html": {
+  "novogradnja": true,
+  "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-borik-5438.html": {
+  "novogradnja": true,
+  "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-borik-5439.html": {
+  "novogradnja": true,
+  "sobe": 4
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-borik-5440.html": {
+  "novogradnja": true,
+  "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-borik-5441.html": {
+  "novogradnja": true,
+  "sobe": 4
  },
  "https://www.demare.hr/nekretnine/stanovi/zadar-crvene-kuce-5156.html": {
   "novogradnja": true,
@@ -97,6 +125,30 @@
  },
  "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-4624.html": {
   "novogradnja": true,
+  "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-5053.html": {
+  "novogradnja": true,
+  "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-5054.html": {
+  "novogradnja": true,
+  "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-5055.html": {
+  "novogradnja": true,
+  "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-5304.html": {
+  "novogradnja": true,
+  "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-5305.html": {
+  "novogradnja": true,
+  "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-5416.html": {
+  "novogradnja": false,
   "sobe": 3
  },
  "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-5418.html": {
@@ -155,6 +207,10 @@
   "novogradnja": false,
   "sobe": 2
  },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-novi-bokanjac-5484.html": {
+  "novogradnja": false,
+  "sobe": 4
+ },
  "https://www.demare.hr/nekretnine/stanovi/zadar-novi-bokanjac-5490.html": {
   "novogradnja": false,
   "sobe": 2
@@ -170,6 +226,14 @@
  "https://www.demare.hr/nekretnine/stanovi/zadar-skrocini-5214.html": {
   "novogradnja": true,
   "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-skrocini-5456.html": {
+  "novogradnja": true,
+  "sobe": 2
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-skrocini-5457.html": {
+  "novogradnja": true,
+  "sobe": 2
  },
  "https://www.demare.hr/nekretnine/stanovi/zadar-skrocini-5503.html": {
   "novogradnja": false,
@@ -202,6 +266,34 @@
  "https://www.demare.hr/nekretnine/stanovi/zadar-vidikovac-5262.html": {
   "novogradnja": true,
   "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-vidikovac-5465.html": {
+  "novogradnja": true,
+  "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-vidikovac-5466.html": {
+  "novogradnja": true,
+  "sobe": 4
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-vidikovac-5467.html": {
+  "novogradnja": true,
+  "sobe": 2
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-vidikovac-5469.html": {
+  "novogradnja": true,
+  "sobe": 4
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-vidikovac-5470.html": {
+  "novogradnja": true,
+  "sobe": 2
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-vidikovac-5471.html": {
+  "novogradnja": true,
+  "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-vidikovac-5472.html": {
+  "novogradnja": true,
+  "sobe": 4
  },
  "https://www.demare.hr/nekretnine/stanovi/zadar-vidikovac-5473.html": {
   "novogradnja": true,
