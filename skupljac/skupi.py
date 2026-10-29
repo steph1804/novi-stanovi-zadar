@@ -389,6 +389,22 @@ def lokacija(o):
     return grad, kvart
 
 
+def kanonski_kvart(kvart):
+    """'Bili brig' -> 'Bili Brig', 'Poluotok (stari dio grada)' -> 'Poluotok'."""
+    kvart = re.sub(r"\s*\(.*?\)", "", kvart).strip()
+    poznat = {bez_kvacica(k): k for k in KVARTOVI}
+    return poznat.get(bez_kvacica(kvart), kvart)
+
+
+def opisni_naslov(naslov, kvart, sobe, povrsina):
+    """Neke agencije u naslov stavljaju samo lokaciju ili šifru ('Zadar - Diklo', 'Stan F1384 – Zadar, Diklo')."""
+    if not re.fullmatch(r"(stan\s+\S+\s*[–-]\s*)?zadar\s*[,–-]\s*[^,–-]+", naslov.strip(), re.I):
+        return naslov
+    vrsta = {0: "Garsonijera", 1: "Jednosoban stan", 2: "Dvosoban stan", 3: "Trosoban stan", 4: "Četverosoban stan"}.get(sobe, "Stan")
+    m2 = f", {povrsina:g} m²".replace(".", ",") if povrsina else ""
+    return f"{vrsta}{m2}, {kvart or 'Zadar'}"
+
+
 def kandidat(o, grad):
     """Grubi filtar prije čitanja stranice oglasa: stan na prodaju u gradu Zadru."""
     return (o.get("stan", True) and not o.get("najam") and not NAJAM.search(o["naslov"])
@@ -397,6 +413,7 @@ def kandidat(o, grad):
 
 def normaliziraj(o, agencija, sada):
     grad, kvart = lokacija(o)
+    kvart = kanonski_kvart(kvart)
     tekst_oglasa = o["naslov"] + " " + " ".join(o.get("oznake", []))
     cijena = o["cijena"] if isinstance(o["cijena"], (int, float)) and o["cijena"] > 1000 else None
     povrsina = o["povrsina"] if isinstance(o["povrsina"], (int, float)) and o["povrsina"] > 10 else None
@@ -405,7 +422,7 @@ def normaliziraj(o, agencija, sada):
         sobe = o["sobe"]
     return {
         "id": agencija["id"] + ":" + o["url"].rstrip("/").rsplit("/", 1)[-1].removesuffix(".html"),
-        "naslov": o["naslov"],
+        "naslov": opisni_naslov(o["naslov"], kvart, sobe, povrsina),
         "url": o["url"],
         "agencija": agencija["naziv"],
         "agencija_web": agencija["web"],

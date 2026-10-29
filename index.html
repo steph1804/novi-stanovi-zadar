@@ -120,6 +120,8 @@ footer .wrap{padding-block:24px;display:flex;gap:20px;flex-wrap:wrap;justify-con
 .price b.na{font-family:var(--f-body);font-size:1rem;color:var(--muted)}
 .go{color:var(--accent);font-weight:600;text-decoration:none;font-size:.92rem}
 .go:hover{text-decoration:underline}
+.also{font-size:.85rem;color:var(--muted)}
+.also a{color:var(--accent)}
 ul.src{list-style:none;padding:0;margin:4px 0 0}
 ul.src a{color:var(--accent)}
 footer .wrap>div{max-width:40ch}
@@ -193,9 +195,12 @@ const esc=t=>String(t??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&g
 const eur=n=>n.toLocaleString("hr-HR")+" €";
 const m2f=n=>n.toLocaleString("hr-HR",{maximumFractionDigits:2})+" m²";
 const soba=n=>n===0?"garsonijera":n===1?"1 soba":n+(n<5?" sobe":" soba");
-const naslov=t=>t===t.toUpperCase()?t.charAt(0)+t.slice(1).toLowerCase():t;
+const naslov=t=>{const sl=t.replace(/[^A-Za-zČĆŽŠĐčćžšđ]/g,"");const vel=sl.replace(/[^A-ZČĆŽŠĐ]/g,"").length;return sl.length&&vel/sl.length>0.6?t.charAt(0)+t.slice(1).toLowerCase():t;};
+// oglasi s prvog skupljanja nisu "novi", pa se oznaka prikazuje tek za kasnije pristigle
+let prviDan="";
+const jeNovo=o=>o.prvi_put_vidjen.slice(0,10)>prviDan&&dana(o.prvi_put_vidjen)<=7;
 const dana=iso=>(Date.now()-new Date(iso))/864e5;
-const brojOglasa=n=>n+(n%10===1&&n%100!==11?" oglas":" oglasa");
+const brojOglasa=n=>{const d=n%10,s=n%100;return n+(d===1&&s!==11?" stan":d>=2&&d<=4&&(s<12||s>14)?" stana":" stanova");};
 
 [[-1,"Sve"],[1,"1"],[2,"2"],[3,"3"],[4,"4+"]].forEach(([v,t])=>{const b=document.createElement("button");b.type="button";b.textContent=t;b.dataset.v=v;b.setAttribute("aria-pressed",v===-1);b.onclick=()=>{S.sobe=v;[...$("sobe").children].forEach(x=>x.setAttribute("aria-pressed",+x.dataset.v===v));render();};$("sobe").appendChild(b);});
 
@@ -204,7 +209,7 @@ function filtered(){
   return O.filter(o=>{
     if(S.onlyFav&&!favs.has(o.id))return false;
     if(S.kvart&&o.kvart!==S.kvart)return false;
-    if(S.ag&&o.agencija!==S.ag)return false;
+    if(S.ag&&o.agencija!==S.ag&&!o.takodjer.some(t=>t.agencija===S.ag))return false;
     if(S.sobe>=0&&(o.sobe==null||(S.sobe===4?o.sobe<4:o.sobe!==S.sobe)))return false;
     if((S.cmin||S.cmax||S.sCijenom)&&o.cijena==null)return false;
     if(S.cmin&&o.cijena<+S.cmin)return false;
@@ -212,8 +217,8 @@ function filtered(){
     if((S.pmin||S.pmax)&&o.povrsina==null)return false;
     if(S.pmin&&o.povrsina<+S.pmin)return false;
     if(S.pmax&&o.povrsina>+S.pmax)return false;
-    if(S.novo&&dana(o.prvi_put_vidjen)>7)return false;
-    if(q&&!(o.naslov+" "+o.kvart+" "+o.agencija).toLowerCase().includes(q))return false;
+    if(S.novo&&!jeNovo(o))return false;
+    if(q&&!(o.naslov+" "+o.kvart+" "+o.agencija+" "+o.takodjer.map(t=>t.agencija).join(" ")).toLowerCase().includes(q))return false;
     return true;
   }).sort({
     new:(a,b)=>b.prvi_put_vidjen.localeCompare(a.prvi_put_vidjen),
@@ -234,7 +239,7 @@ function render(){
       <div class="body">
         <div class="cardtop">
           <span class="agency">${esc(o.agencija)}</span>
-          ${dana(o.prvi_put_vidjen)<=7?'<span class="pill">Novo</span>':''}
+          ${jeNovo(o)?'<span class="pill">Novo</span>':''}
           <button class="fav" data-fav="${esc(o.id)}" aria-pressed="${favs.has(o.id)}" aria-label="Spremi oglas">${star(favs.has(o.id))}</button>
         </div>
         <h3><a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(naslov(o.naslov))}</a></h3>
@@ -246,20 +251,33 @@ function render(){
         </div>
         <div class="price">${o.cijena?`<b>${eur(o.cijena)}</b>`:`<b class="na">Cijena na upit</b>`}<small>${o.cijena_m2?o.cijena_m2.toLocaleString("hr-HR")+" €/m²":""}</small></div>
         <a class="go" href="${esc(o.url)}" target="_blank" rel="noopener">Pogledaj oglas kod agencije ↗</a>
+        ${o.takodjer.length?`<div class="also">Isti stan nudi i: ${o.takodjer.map(t=>`<a href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.agencija)}${t.cijena?" ("+eur(t.cijena)+")":""}</a>`).join(", ")}</div>`:""}
       </div>
     </article>`).join(""):`<div class="empty">Nema oglasa za odabrane filtere. Proširite raspon cijene ili kvadrature, ili <button class="reset" type="button" onclick="resetAll()">poništite filtere</button>.</div>`;
 }
 
 function fillSelect(id,vals){vals.forEach(v=>{const o=document.createElement("option");o.value=v;o.textContent=v;$(id).appendChild(o);});}
 
+// Isti stan često nudi više agencija; spajaju se oglasi iz istog kvarta s istom površinom.
+function spoji(oglasi){
+  const out=[];
+  for(const o of oglasi){
+    const isti=o.povrsina&&o.kvart&&out.find(p=>p.kvart===o.kvart&&p.povrsina&&Math.abs(p.povrsina-o.povrsina)<=0.5&&p.agencija!==o.agencija&&!p.takodjer.some(t=>t.agencija===o.agencija));
+    if(isti)isti.takodjer.push({agencija:o.agencija,url:o.url,cijena:o.cijena});
+    else out.push({...o,takodjer:[]});
+  }
+  return out;
+}
+
 function init(d){
-  O=d.oglasi;
+  O=spoji(d.oglasi);
+  prviDan=O.reduce((m,o)=>o.prvi_put_vidjen<m?o.prvi_put_vidjen:m,"9999").slice(0,10);
   const kv=[...new Set(O.map(o=>o.kvart).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"hr"));
   fillSelect("kvart",kv);
   fillSelect("agencija",[...new Set(O.map(o=>o.agencija))].sort((a,b)=>a.localeCompare(b,"hr")));
   const c=O.filter(o=>o.cijena_m2).map(o=>o.cijena_m2).sort((a,b)=>a-b);
   const med=c.length?c[Math.floor(c.length/2)]:null;
-  $("stats").innerHTML=`<div><b>${O.length}</b><span>oglasa</span></div><div><b>${d.izvori.length}</b><span>agencija</span></div><div><b>${med?med.toLocaleString("hr-HR")+" €":"–"}</b><span>medijan €/m²</span></div>`;
+  $("stats").innerHTML=`<div><b>${O.length}</b><span>stanova</span></div><div><b>${d.izvori.length}</b><span>agencija</span></div><div><b>${med?med.toLocaleString("hr-HR")+" €":"–"}</b><span>medijan €/m²</span></div>`;
   const t=new Date(d.azurirano);
   $("azurirano").innerHTML=`Zadnje ažuriranje: <b>${t.toLocaleDateString("hr-HR")} u ${t.toLocaleTimeString("hr-HR",{hour:"2-digit",minute:"2-digit"})}</b>`;
   $("srcList").innerHTML=d.izvori.map(i=>`<li><a href="${esc(i.web)}" target="_blank" rel="noopener">${esc(i.agencija)}</a> · ${brojOglasa(i.novogradnja)}${i.greska?" (zadnje preuzimanje nije uspjelo)":""}</li>`).join("");
