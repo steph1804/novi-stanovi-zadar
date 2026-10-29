@@ -1,0 +1,38 @@
+name: Dohvati uzorke stranica
+
+# Pomoćni posao za dodavanje novih agencija: preuzme zadane stranice
+# i spremi ih na granu "uzorci" kako bi se mogao proučiti njihov HTML.
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "Popis URL-ova odvojenih razmakom"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  uzorci:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Preuzmi stranice
+        env:
+          URLS: ${{ inputs.urls }}
+        run: |
+          mkdir -p uzorci && cd uzorci
+          UA="NovogradnjaZadarBot/0.1 (+https://github.com/steph1804/novi-stanovi-zadar)"
+          for u in $URLS; do
+            f=$(echo "$u" | sed -E 's#^https?://(www\.)?##; s#[^A-Za-z0-9._-]+#_#g' | cut -c1-120)
+            code=$(curl -sSL -m 30 -A "$UA" -o "$f.html" -w '%{http_code}' "$u" || echo ERR)
+            echo "$code $u -> $f.html" >> pregled.txt
+          done
+          cat pregled.txt
+      - name: Spremi na granu uzorci
+        run: |
+          cd uzorci
+          git init -q -b uzorci
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A && git commit -qm "Uzorci stranica"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" uzorci
