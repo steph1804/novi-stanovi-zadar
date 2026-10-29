@@ -1,3 +1,8 @@
+<!doctype html>
+<html lang="hr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Novogradnja Zadar</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -22,6 +27,8 @@
   --accent:#5cb3dc; --accent-ink:#0b1419; --accent-soft:#1d3340; --sun:#e0a050;
   --ok:#6cc08f; --chip:#232d34; color-scheme:dark}
 *{box-sizing:border-box}
+body{margin:0}
+:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 [hidden]{display:none!important}
 body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:16px;line-height:1.5}
 .wrap{max-width:1240px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
@@ -137,6 +144,9 @@ footer .wrap{padding-block:24px;display:flex;gap:20px;flex-wrap:wrap;justify-con
 }
 @media (prefers-reduced-motion:reduce){.card{transition:none}.card:hover{transform:none}}
 </style>
+
+</head>
+<body>
 
 <header class="top"><div class="wrap">
   <div class="brand">
@@ -390,3 +400,5 @@ function route(){const m=location.hash.match(/^#stan-(\d+)$/);if(m)openDetail(+m
 window.addEventListener("hashchange",route);
 stats();render();route();
 </script>
+</body>
+</html>
