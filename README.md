@@ -12,7 +12,9 @@ Stranica prikazuje samo osnovne podatke (naslov, kvart, cijena, površina, broj 
 
 ## Dodavanje agencije
 
-U `skupljac/skupi.py` dodajte zapis u popis `AGENCIJE`. Ako agencija koristi jedan od postojećih predložaka stranice (`parsiraj_property_box`, `parsiraj_at_property`), dovoljno je navesti URL popisa stanova. Inače treba napisati novu funkciju za čitanje kartica oglasa.
+Trenutno se skupljaju oglasi agencija Artis, Top Lokacija, Mareta, Emporia, Demare, Nina dom, Citadela i Nelmar.
+
+Za novu agenciju u `skupljac/skupi.py` dodajte zapis u popis `AGENCIJE` i funkciju koja čita kartice oglasa s popisa. Ako se iz popisa ne vidi je li stan novogradnja, dodajte i funkciju `detalj` koja to čita sa stranice oglasa; rezultat se pamti u `podaci/detalji.json`. Za proučavanje HTML-a nove agencije može se ručno pokrenuti posao "Dohvati uzorke stranica" na kartici Actions.
 
 ## Lokalno pokretanje
 
