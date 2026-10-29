@@ -1,0 +1,32 @@
+name: Skupi oglase agencija
+
+on:
+  schedule:
+    - cron: "0 5 * * *"  # svaki dan u 6 ili 7 sati po zagrebačkom vremenu
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: skupi-oglase
+  cancel-in-progress: false
+
+jobs:
+  skupi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r skupljac/requirements.txt
+      - run: python skupljac/skupi.py
+      - name: Spremi promjene
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add podaci/oglasi.json
+          git diff --cached --quiet && echo "Nema promjena" && exit 0
+          git commit -m "Ažuriraj oglase agencija"
+          git push

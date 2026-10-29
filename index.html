@@ -95,40 +95,6 @@ aside.filters{position:sticky;top:12px;align-self:start;background:var(--surface
 .price small{color:var(--muted);font-family:var(--f-mono);font-size:.8rem}
 .empty{padding:40px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:var(--r)}
 
-/* detalj */
-.overlay{position:fixed;inset:0;background:rgba(10,20,28,.5);z-index:20;display:flex;justify-content:flex-end}
-.panel{background:var(--bg);width:min(720px,100%);height:100%;overflow-y:auto;padding:0 0 calc(32px + env(safe-area-inset-bottom,0px))}
-.panel .ph{position:relative;aspect-ratio:16/9}
-.panel .ph svg{width:100%;height:100%;display:block}
-.close{position:absolute;top:calc(12px + env(safe-area-inset-top,0px));right:calc(12px + env(safe-area-inset-right,0px));width:40px;height:40px;border-radius:50%;border:none;background:var(--surface);cursor:pointer;font-size:1.3rem}
-.pbody{padding:22px max(20px,env(safe-area-inset-right,0px)) 0 max(20px,env(safe-area-inset-left,0px));display:flex;flex-direction:column;gap:20px}
-.pbody h2{font-size:1.7rem}
-.bigprice{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
-.bigprice b{font-family:var(--f-mono);font-size:1.6rem;color:var(--accent)}
-.bigprice span{color:var(--muted)}
-dl.facts{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;margin:0}
-dl.facts div{background:var(--surface);padding:10px 12px}
-dl.facts dt{font-size:.74rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted)}
-dl.facts dd{margin:2px 0 0;font-weight:600;font-variant-numeric:tabular-nums}
-.tags{display:flex;flex-wrap:wrap;gap:6px}
-.tags span{background:var(--chip);padding:4px 10px;border-radius:999px;font-size:.85rem}
-.units{overflow-x:auto;border:1px solid var(--line);border-radius:var(--r);background:var(--surface)}
-.units table{border-collapse:collapse;width:100%;font-size:.9rem;min-width:460px}
-.units th,.units td{padding:8px 12px;text-align:left;border-bottom:1px solid var(--line)}
-.units th{font-size:.74rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:600}
-.units td.n{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
-.st{font-size:.8rem;font-weight:600}
-.st.free{color:var(--ok)} .st.res{color:var(--sun)} .st.sold{color:var(--muted);text-decoration:line-through}
-.units tr.cur td{background:var(--accent-soft)}
-form.contact{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:18px;display:flex;flex-direction:column;gap:12px}
-form.contact h3{font-size:1.15rem}
-form.contact input,form.contact textarea{width:100%;padding:10px;border:1px solid var(--line);border-radius:8px;background:var(--bg)}
-form.contact textarea{min-height:90px;resize:vertical}
-.btn{background:var(--accent);color:var(--accent-ink);border:none;border-radius:8px;padding:11px 18px;font-weight:600;cursor:pointer;align-self:flex-start}
-.ok-msg{color:var(--ok);font-weight:600}
-.err{color:#c0392b;font-size:.85rem}
-.inv{color:var(--muted);font-size:.9rem}
-
 footer{border-top:1px solid var(--line);color:var(--muted);font-size:.88rem}
 footer .wrap{padding-block:24px;display:flex;gap:20px;flex-wrap:wrap;justify-content:space-between}
 
@@ -143,8 +109,21 @@ footer .wrap{padding-block:24px;display:flex;gap:20px;flex-wrap:wrap;justify-con
   .stats b{font-size:1.05rem}
 }
 @media (prefers-reduced-motion:reduce){.card{transition:none}.card:hover{transform:none}}
+.cardtop{display:flex;align-items:center;gap:8px}
+.agency{font-size:.75rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);font-weight:600}
+.pill{font-size:.72rem;font-weight:600;color:var(--ok);border:1px solid currentColor;border-radius:999px;padding:1px 8px}
+.card .fav{position:static;margin-left:auto;width:30px;height:30px;background:var(--chip)}
+.card{cursor:default}
+.card h3 a{color:inherit;text-decoration:none}
+.card h3 a:hover{color:var(--accent)}
+.card h3{font-size:1.02rem;line-height:1.3}
+.price b.na{font-family:var(--f-body);font-size:1rem;color:var(--muted)}
+.go{color:var(--accent);font-weight:600;text-decoration:none;font-size:.92rem}
+.go:hover{text-decoration:underline}
+ul.src{list-style:none;padding:0;margin:4px 0 0}
+ul.src a{color:var(--accent)}
+footer .wrap>div{max-width:40ch}
 </style>
-
 </head>
 <body>
 
@@ -153,14 +132,14 @@ footer .wrap{padding-block:24px;display:flex;gap:20px;flex-wrap:wrap;justify-con
     <svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><rect x="3" y="9" width="10" height="18" rx="1.5" fill="var(--accent)"/><rect x="15" y="3" width="12" height="24" rx="1.5" fill="var(--sun)"/><path d="M0 28c5-3 10 3 15 0s10 3 15 0" stroke="var(--accent)" stroke-width="2" fill="none"/></svg>
     Novogradnja Zadar
   </div>
-  <nav class="top"><a href="#ponuda">Ponuda</a><a href="#investitori">Za investitore</a><a href="#kontakt">Kontakt</a></nav>
+  <nav class="top"><a href="#ponuda">Ponuda</a><a href="#izvori">Agencije</a></nav>
 </div></header>
 
 <section class="hero"><div class="wrap">
   <div>
-    <h1>Novi stanovi u Zadru, <em>izravno od investitora</em></h1>
-    <p>Pregledajte sve projekte novogradnje na jednom mjestu: od Borika i Dikla do Bokanjca i Poluotoka. Filtrirajte po kvartu, cijeni, kvadraturi i roku useljenja, pa pošaljite upit za stan koji vam odgovara.</p>
-    <p class="demo-note"><b>Primjer podataka.</b> Projekti, investitori i cijene u ovoj verziji su izmišljeni i služe samo za prikaz.</p>
+    <h1>Novi stanovi u Zadru, <em>iz svih agencija na jednom mjestu</em></h1>
+    <p>Svakog jutra skupljamo oglase za novogradnju s web stranica zadarskih agencija za nekretnine. Pretražite ih po kvartu, cijeni i kvadraturi, a za detalje, fotografije i razgledavanje otvorite oglas kod agencije.</p>
+    <p class="demo-note" id="azurirano">Učitavam oglase…</p>
   </div>
   <div class="stats" id="stats"></div>
 </div></section>
@@ -168,17 +147,15 @@ footer .wrap{padding-block:24px;display:flex;gap:20px;flex-wrap:wrap;justify-con
 <main id="ponuda"><div class="wrap">
   <aside class="filters" id="filters" aria-label="Filteri">
     <h2>Pretraga</h2>
-    <div class="field"><label for="q">Pojam</label><input id="q" type="text" placeholder="npr. pogled na more, vrt"></div>
+    <div class="field"><label for="q">Pojam</label><input id="q" type="text" placeholder="npr. vrt, penthouse, garaža"></div>
     <div class="field"><label for="kvart">Kvart</label><select id="kvart"><option value="">Svi kvartovi</option></select></div>
     <div class="field"><span class="lbl">Broj soba</span><div class="seg" id="sobe"></div></div>
     <div class="field"><span class="lbl">Cijena (€)</span><div class="row2"><input id="cmin" type="number" placeholder="od" min="0" step="10000"><input id="cmax" type="number" placeholder="do" min="0" step="10000"></div></div>
     <div class="field"><span class="lbl">Površina (m²)</span><div class="row2"><input id="pmin" type="number" placeholder="od" min="0"><input id="pmax" type="number" placeholder="do" min="0"></div></div>
-    <div class="field"><label for="useljenje">Useljenje</label><select id="useljenje"><option value="">Bilo kada</option><option value="odmah">Odmah useljivo</option><option value="2027">Do kraja 2027.</option><option value="2028">Do kraja 2028.</option></select></div>
-    <div class="field"><span class="lbl">Ostalo</span><div class="checks">
-      <label><input type="checkbox" id="fMore"> Pogled na more</label>
-      <label><input type="checkbox" id="fPark"> Parking / garaža</label>
-      <label><input type="checkbox" id="fLift"> Lift</label>
-      <label><input type="checkbox" id="fVrt"> Vrt ili terasa &gt; 15 m²</label>
+    <div class="field"><label for="agencija">Agencija</label><select id="agencija"><option value="">Sve agencije</option></select></div>
+    <div class="field"><div class="checks">
+      <label><input type="checkbox" id="fCijena"> Samo oglasi s cijenom</label>
+      <label><input type="checkbox" id="fNovo"> Novo u zadnjih 7 dana</label>
     </div></div>
     <button class="reset" id="reset" type="button">Poništi filtere</button>
   </aside>
@@ -193,212 +170,125 @@ footer .wrap{padding-block:24px;display:flex;gap:20px;flex-wrap:wrap;justify-con
         <option value="pa">Cijena: niža prvo</option>
         <option value="pd">Cijena: viša prvo</option>
         <option value="m2">Cijena po m²: niža prvo</option>
-        <option value="sea">Najbliže moru</option>
+        <option value="pv">Površina: veća prvo</option>
       </select>
     </div>
     <div class="grid" id="grid"></div>
   </section>
 </div></main>
 
-<footer id="kontakt"><div class="wrap">
-  <div><b>Novogradnja Zadar</b><br>Portal novogradnje za Zadar i okolicu</div>
-  <div id="investitori">Investitor ste? Objavite projekt: <span class="mono">info@novogradnja-zadar.hr</span> (primjer adrese)</div>
-  <div>Sve cijene uključuju PDV. Porez na promet nekretnina ne plaća se na prvu prodaju novogradnje.</div>
+<footer id="izvori"><div class="wrap">
+  <div><b>Novogradnja Zadar</b><br>Pregled novogradnje iz ponude zadarskih agencija</div>
+  <div><b>Izvori</b><ul class="src" id="srcList"></ul></div>
+  <div>Podaci su preuzeti s javnih stranica agencija i mogu kasniti do jednog dana. Mjerodavan je oglas kod agencije.</div>
 </div></footer>
 
-<div class="overlay" id="overlay" hidden></div>
-
 <script>
-const KV = {
-  "Borik":1.0,"Diklo":0.4,"Puntamika":0.5,"Poluotok":0.2,"Bokanjac":3.1,"Bili Brig":0.9,
-  "Smiljevac":1.6,"Plovanija":2.2,"Vidikovac":1.8,"Arbanasi":0.6,"Voštarnica":1.4,"Brodarica":2.5,"Stanovi":1.9,"Relja":1.3
-};
-// Primjer podataka (izmišljeni projekti)
-const P = [
- {id:1,naziv:"Residence Maestral",kvart:"Borik",inv:"Maestral gradnja d.o.o.",sobe:3,m2:84.6,cijena:498000,kat:"2. kat od 4",use:"2027-06",more:true,park:"2 garažna mjesta",lift:true,vrt:22,en:"A+",gr:"#7fb3c9",opis:"Trosobni stan na zadnjoj etaži manje stambene zgrade 300 m od plaže Borik. Velika terasa s pogledom na zadarski kanal i Ugljan, dizalica topline i podno grijanje u svim prostorijama.",dod:["Podno grijanje","Dizalica topline","Solarni paneli","Video nadzor"]},
- {id:2,naziv:"Diklo Bay",kvart:"Diklo",inv:"Adria Invest Zadar d.o.o.",sobe:2,m2:62.3,cijena:389000,kat:"1. kat od 3",use:"odmah",more:true,park:"1 vanjsko mjesto",lift:false,vrt:12,en:"A",gr:"#9cc5b9",opis:"Dvosobni stan u drugom redu do mora, ulaz u stan iz zajedničkog atrija. Pogodan za stanovanje i turistički najam.",dod:["Klima u svim sobama","Spremište","Kamena obloga fasade"]},
- {id:3,naziv:"Zeleni Bokanjac",kvart:"Bokanjac",inv:"Kvarner Dom d.o.o.",sobe:3,m2:78.2,cijena:265000,kat:"prizemlje",use:"2027-03",more:false,park:"1 garažno mjesto",lift:true,vrt:48,en:"A+",gr:"#a9c48f",opis:"Obiteljski stan u prizemlju s privatnim vrtom od 48 m². Mirna lokacija uz novu osnovnu školu i dječji vrtić.",dod:["Privatni vrt","Podno grijanje","Punionica za električni auto"]},
- {id:4,naziv:"Poluotok Palazzo",kvart:"Poluotok",inv:"Stari Grad Nekretnine d.o.o.",sobe:2,m2:55.0,cijena:465000,kat:"3. kat od 3",use:"2028-01",more:true,park:"bez parkinga",lift:false,vrt:0,en:"B",gr:"#d6b98c",opis:"Rekonstrukcija kamene kuće iz 19. stoljeća unutar zidina. Visoki stropovi s drvenim gredama, pogled na Morske orgulje i otoke.",dod:["Zaštićena baština","Drvene grede","Kamene klupčice"]},
- {id:5,naziv:"Smiljevac Park",kvart:"Smiljevac",inv:"Zadar Projekt Gradnja d.o.o.",sobe:1,m2:41.8,cijena:168000,kat:"4. kat od 5",use:"2027-09",more:false,park:"1 garažno mjesto",lift:true,vrt:6,en:"A",gr:"#b4b0d1",opis:"Jednosoban stan uz šetnicu i park, blizu Ekonomske škole i trgovačkog centra. Dobar omjer cijene i kvadrature.",dod:["Lift","Spremište","Zajednička bicikloteka"]},
- {id:6,naziv:"Puntamika Lungomare",kvart:"Puntamika",inv:"Maestral gradnja d.o.o.",sobe:4,m2:118.4,cijena:812000,kat:"penthouse",use:"2028-06",more:true,park:"2 garažna mjesta",lift:true,vrt:64,en:"A+",gr:"#86a8d8",opis:"Penthouse s krovnom terasom i jacuzzijem, prvi red do mora kod lučice Puntamika. Panoramski pogled na zalazak sunca.",dod:["Krovna terasa","Jacuzzi","Pametna kuća","Podno grijanje"]},
- {id:7,naziv:"Vidikovac Terase",kvart:"Vidikovac",inv:"Kvarner Dom d.o.o.",sobe:3,m2:72.5,cijena:254000,kat:"2. kat od 4",use:"odmah",more:false,park:"1 vanjsko mjesto",lift:true,vrt:18,en:"A",gr:"#c7a7a0",opis:"Useljiv trosobni stan s velikom lođom. Zgrada ima zajednički vrt i dječje igralište.",dod:["Lođa 18 m²","Dječje igralište","Odmah useljivo"]},
- {id:8,naziv:"Arbanasi Marina",kvart:"Arbanasi",inv:"Adria Invest Zadar d.o.o.",sobe:2,m2:58.9,cijena:342000,kat:"1. kat od 4",use:"2027-12",more:true,park:"1 garažno mjesto",lift:true,vrt:14,en:"A+",gr:"#8fc0cf",opis:"Moderan dvosoban stan kod Gradske lučice, 10 minuta pješice do Poluotoka preko mosta.",dod:["Pogled na luku","Dizalica topline","Video nadzor"]},
- {id:9,naziv:"Bili Brig Residence",kvart:"Bili Brig",inv:"Zadar Projekt Gradnja d.o.o.",sobe:2,m2:66.1,cijena:298000,kat:"3. kat od 5",use:"2027-06",more:true,park:"1 garažno mjesto",lift:true,vrt:10,en:"A",gr:"#a3b8c2",opis:"Stan s djelomičnim pogledom na more, blizu Kolovara i šetnice. Garaža i spremište uključeni u cijenu.",dod:["Garaža uključena","Spremište uključeno"]},
- {id:10,naziv:"Plovanija Gardens",kvart:"Plovanija",inv:"Kvarner Dom d.o.o.",sobe:4,m2:96.0,cijena:328000,kat:"prizemlje",use:"2028-03",more:false,park:"2 vanjska mjesta",lift:false,vrt:80,en:"A+",gr:"#9fbf9b",opis:"Četverosoban stan u maloj zgradi s tri stana, s vrtom od 80 m². Prostor za roštilj i parkiranje dva automobila.",dod:["Vrt 80 m²","Roštilj","Podno grijanje"]},
- {id:11,naziv:"Voštarnica Urban",kvart:"Voštarnica",inv:"Stari Grad Nekretnine d.o.o.",sobe:1,m2:38.5,cijena:179000,kat:"2. kat od 4",use:"2027-03",more:false,park:"1 vanjsko mjesto",lift:true,vrt:5,en:"A",gr:"#c4b48f",opis:"Kompaktan stan blizu Sveučilišta i bolnice. Pogodan za dugoročni najam studentima ili zdravstvenim djelatnicima.",dod:["Blizu Sveučilišta","Namješten na upit"]},
- {id:12,naziv:"Brodarica Sunset",kvart:"Brodarica",inv:"Adria Invest Zadar d.o.o.",sobe:3,m2:81.3,cijena:276000,kat:"3. kat od 3",use:"2027-12",more:true,park:"1 garažno mjesto",lift:true,vrt:25,en:"A",gr:"#d8a98a",opis:"Stan na zadnjoj etaži s terasom prema zapadu. Mirni dio grada s brzim izlazom na obilaznicu.",dod:["Terasa 25 m²","Pogled na zalazak"]},
- {id:13,naziv:"Stanovi Centar",kvart:"Stanovi",inv:"Zadar Projekt Gradnja d.o.o.",sobe:2,m2:54.7,cijena:212000,kat:"1. kat od 5",use:"odmah",more:false,park:"1 garažno mjesto",lift:true,vrt:8,en:"A",gr:"#a6b3c9",opis:"Dvosobni stan u novoj zgradi uz Put Stanova, blizu Supernove i gradskog bazena.",dod:["Odmah useljivo","Garaža"]},
- {id:14,naziv:"Relja Living",kvart:"Relja",inv:"Maestral gradnja d.o.o.",sobe:3,m2:74.0,cijena:318000,kat:"4. kat od 6",use:"2028-01",more:true,park:"1 garažno mjesto",lift:true,vrt:12,en:"A+",gr:"#9db1d4",opis:"Trosobni stan s pogledom prema Poluotoku i kanalu, uz gradsku tržnicu i autobusni kolodvor.",dod:["Pogled na Poluotok","Pametna kuća"]},
-];
-const STATUSI=["free","free","res","free","sold","free","res","free"];
-P.forEach(p=>{p.more_km=KV[p.kvart];p.m2c=Math.round(p.cijena/p.m2);});
-
-const eur=n=>n.toLocaleString("hr-HR")+" €";
-const m2f=n=>n.toLocaleString("hr-HR",{minimumFractionDigits:1,maximumFractionDigits:1})+" m²";
-const soba=n=>n===1?"1 soba":n+(n<5?" sobe":" soba");
-const useT=u=>{if(u==="odmah")return "Odmah useljivo";const[y,m]=u.split("-");const mj=["siječanj","veljača","ožujak","travanj","svibanj","lipanj","srpanj","kolovoz","rujan","listopad","studeni","prosinac"];return "Useljenje: "+mj[+m-1]+" "+y+".";};
-
-function art(p,big){
-  // generirana ilustracija fasade (mjesto za prave fotografije)
-  const floors=p.kat==="prizemlje"?3:(p.kat==="penthouse"?5:4);
-  const W=320,H=200,bw=150,bx=(W-bw)/2,fh=26,base=H-30,top=base-floors*fh;
-  let win="";
-  for(let f=0;f<floors;f++)for(let c=0;c<4;c++){
-    win+=`<rect x="${bx+12+c*35}" y="${top+6+f*fh}" width="24" height="14" rx="1.5" fill="#2a4a5e" opacity=".55"/>`;
-  }
-  const sea=p.more?`<path d="M0 ${H-14} q20 -6 40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 V${H} H0Z" fill="#1d6e96" opacity=".75"/>`:`<rect x="0" y="${H-14}" width="${W}" height="14" fill="#6f8f55" opacity=".7"/>`;
-  return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Ilustracija zgrade ${p.naziv}">
-    <defs><linearGradient id="g${p.id}${big?'b':''}" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${p.gr}"/><stop offset="1" stop-color="#f4efe4"/></linearGradient></defs>
-    <rect width="${W}" height="${H}" fill="url(#g${p.id}${big?'b':''})"/>
-    <circle cx="${W-50}" cy="40" r="16" fill="#f2c46d" opacity=".9"/>
-    <rect x="${bx}" y="${top}" width="${bw}" height="${base-top}" fill="#f7f4ee"/>
-    <rect x="${bx-6}" y="${top-6}" width="${bw+12}" height="6" fill="#d9d2c4"/>
-    ${win}
-    <rect x="${bx+bw/2-10}" y="${base-20}" width="20" height="20" fill="#7a5c43"/>
-    <rect x="0" y="${base}" width="${W}" height="${H-base}" fill="#cfc8b8"/>
-    ${sea}
-  </svg>`;
-}
-
-// stanje
-const S={q:"",kvart:"",sobe:0,cmin:"",cmax:"",pmin:"",pmax:"",use:"",more:false,park:false,lift:false,vrt:false,sort:"new",onlyFav:false};
-let favs=new Set();
-try{favs=new Set(JSON.parse(localStorage.getItem("nz-fav")||"[]"));}catch(e){}
-const saveFav=()=>{try{localStorage.setItem("nz-fav",JSON.stringify([...favs]));}catch(e){}};
-
+const S={q:"",kvart:"",sobe:-1,cmin:"",cmax:"",pmin:"",pmax:"",ag:"",sCijenom:false,novo:false,sort:"new",onlyFav:false};
+let O=[],favs=new Set();
+try{favs=new Set(JSON.parse(localStorage.getItem("nz-fav2")||"[]"));}catch(e){}
+const saveFav=()=>{try{localStorage.setItem("nz-fav2",JSON.stringify([...favs]));}catch(e){}};
 const $=id=>document.getElementById(id);
-Object.keys(KV).sort((a,b)=>a.localeCompare(b,"hr")).forEach(k=>{const o=document.createElement("option");o.value=k;o.textContent=k;$("kvart").appendChild(o);});
-[[0,"Sve"],[1,"1"],[2,"2"],[3,"3"],[4,"4+"]].forEach(([v,t])=>{const b=document.createElement("button");b.type="button";b.textContent=t;b.dataset.v=v;b.setAttribute("aria-pressed",v===0);b.onclick=()=>{S.sobe=v;[...$("sobe").children].forEach(x=>x.setAttribute("aria-pressed",+x.dataset.v===v));render();};$("sobe").appendChild(b);});
+const esc=t=>String(t??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const eur=n=>n.toLocaleString("hr-HR")+" €";
+const m2f=n=>n.toLocaleString("hr-HR",{maximumFractionDigits:2})+" m²";
+const soba=n=>n===0?"garsonijera":n===1?"1 soba":n+(n<5?" sobe":" soba");
+const naslov=t=>t===t.toUpperCase()?t.charAt(0)+t.slice(1).toLowerCase():t;
+const dana=iso=>(Date.now()-new Date(iso))/864e5;
+const brojOglasa=n=>n+(n%10===1&&n%100!==11?" oglas":" oglasa");
 
-function stats(){
-  const avg=Math.round(P.reduce((s,p)=>s+p.m2c,0)/P.length);
-  $("stats").innerHTML=`<div><b>${P.length}</b><span>stanova</span></div><div><b>${new Set(P.map(p=>p.kvart)).size}</b><span>kvartova</span></div><div><b>${avg.toLocaleString("hr-HR")} €</b><span>prosj. po m²</span></div>`;
-}
+[[-1,"Sve"],[1,"1"],[2,"2"],[3,"3"],[4,"4+"]].forEach(([v,t])=>{const b=document.createElement("button");b.type="button";b.textContent=t;b.dataset.v=v;b.setAttribute("aria-pressed",v===-1);b.onclick=()=>{S.sobe=v;[...$("sobe").children].forEach(x=>x.setAttribute("aria-pressed",+x.dataset.v===v));render();};$("sobe").appendChild(b);});
 
 function filtered(){
   const q=S.q.trim().toLowerCase();
-  let r=P.filter(p=>{
-    if(S.onlyFav&&!favs.has(p.id))return false;
-    if(S.kvart&&p.kvart!==S.kvart)return false;
-    if(S.sobe&&(S.sobe===4?p.sobe<4:p.sobe!==S.sobe))return false;
-    if(S.cmin&&p.cijena<+S.cmin)return false;
-    if(S.cmax&&p.cijena>+S.cmax)return false;
-    if(S.pmin&&p.m2<+S.pmin)return false;
-    if(S.pmax&&p.m2>+S.pmax)return false;
-    if(S.use==="odmah"&&p.use!=="odmah")return false;
-    if(S.use&&S.use!=="odmah"&&p.use!=="odmah"&&p.use.slice(0,4)>S.use)return false;
-    if(S.more&&!p.more)return false;
-    if(S.park&&p.park==="bez parkinga")return false;
-    if(S.lift&&!p.lift)return false;
-    if(S.vrt&&p.vrt<=15)return false;
-    if(q&&!(p.naziv+" "+p.kvart+" "+p.opis+" "+p.dod.join(" ")+(p.more?" pogled na more":"")+(p.vrt>15?" vrt terasa":"")).toLowerCase().includes(q))return false;
+  return O.filter(o=>{
+    if(S.onlyFav&&!favs.has(o.id))return false;
+    if(S.kvart&&o.kvart!==S.kvart)return false;
+    if(S.ag&&o.agencija!==S.ag)return false;
+    if(S.sobe>=0&&(o.sobe==null||(S.sobe===4?o.sobe<4:o.sobe!==S.sobe)))return false;
+    if((S.cmin||S.cmax||S.sCijenom)&&o.cijena==null)return false;
+    if(S.cmin&&o.cijena<+S.cmin)return false;
+    if(S.cmax&&o.cijena>+S.cmax)return false;
+    if((S.pmin||S.pmax)&&o.povrsina==null)return false;
+    if(S.pmin&&o.povrsina<+S.pmin)return false;
+    if(S.pmax&&o.povrsina>+S.pmax)return false;
+    if(S.novo&&dana(o.prvi_put_vidjen)>7)return false;
+    if(q&&!(o.naslov+" "+o.kvart+" "+o.agencija).toLowerCase().includes(q))return false;
     return true;
-  });
-  const s={new:(a,b)=>b.id-a.id,pa:(a,b)=>a.cijena-b.cijena,pd:(a,b)=>b.cijena-a.cijena,m2:(a,b)=>a.m2c-b.m2c,sea:(a,b)=>a.more_km-b.more_km}[S.sort];
-  return r.sort(s);
+  }).sort({
+    new:(a,b)=>b.prvi_put_vidjen.localeCompare(a.prvi_put_vidjen),
+    pa:(a,b)=>(a.cijena??1e12)-(b.cijena??1e12),
+    pd:(a,b)=>(b.cijena??-1)-(a.cijena??-1),
+    m2:(a,b)=>(a.cijena_m2??1e12)-(b.cijena_m2??1e12),
+    pv:(a,b)=>(b.povrsina??-1)-(a.povrsina??-1)
+  }[S.sort]);
 }
 
 const star=on=>`<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z" fill="${on?'currentColor':'none'}" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>`;
 
 function render(){
   const r=filtered();
-  $("count").textContent=r.length===1?"1 stan":r.length+(r.length%10>=2&&r.length%10<=4&&(r.length<10||r.length>20)?" stana":" stanova");
-  $("grid").innerHTML=r.length?r.map(p=>`
-    <article class="card" tabindex="0" data-id="${p.id}" aria-label="${p.naziv}, ${p.kvart}">
-      <div class="thumb">${art(p)}
-        <span class="badge ${p.use==='odmah'?'ready':''}">${p.use==='odmah'?'Odmah useljivo':'U izgradnji'}</span>
-        <button class="fav" data-fav="${p.id}" aria-pressed="${favs.has(p.id)}" aria-label="Spremi stan">${star(favs.has(p.id))}</button>
-      </div>
+  $("count").textContent=brojOglasa(r.length);
+  $("grid").innerHTML=r.length?r.map(o=>`
+    <article class="card">
       <div class="body">
-        <h3>${p.naziv}</h3>
-        <div class="loc">${p.kvart}, Zadar · ${p.more_km.toLocaleString("hr-HR")} km do mora</div>
-        <div class="specs"><span><b>${m2f(p.m2)}</b></span><span><b>${soba(p.sobe)}</b></span><span>${p.kat}</span><span>en. razred <b>${p.en}</b></span></div>
-        <div class="price"><b>${eur(p.cijena)}</b><small>${p.m2c.toLocaleString("hr-HR")} €/m²</small></div>
+        <div class="cardtop">
+          <span class="agency">${esc(o.agencija)}</span>
+          ${dana(o.prvi_put_vidjen)<=7?'<span class="pill">Novo</span>':''}
+          <button class="fav" data-fav="${esc(o.id)}" aria-pressed="${favs.has(o.id)}" aria-label="Spremi oglas">${star(favs.has(o.id))}</button>
+        </div>
+        <h3><a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(naslov(o.naslov))}</a></h3>
+        <div class="loc">${esc(o.kvart||"Zadar")}${o.kvart?", Zadar":""}</div>
+        <div class="specs">
+          ${o.povrsina?`<span><b>${m2f(o.povrsina)}</b></span>`:""}
+          ${o.sobe!=null?`<span><b>${soba(o.sobe)}</b></span>`:""}
+          ${o.projekt?`<span><b>Cijeli projekt</b></span>`:""}
+        </div>
+        <div class="price">${o.cijena?`<b>${eur(o.cijena)}</b>`:`<b class="na">Cijena na upit</b>`}<small>${o.cijena_m2?o.cijena_m2.toLocaleString("hr-HR")+" €/m²":""}</small></div>
+        <a class="go" href="${esc(o.url)}" target="_blank" rel="noopener">Pogledaj oglas kod agencije ↗</a>
       </div>
-    </article>`).join(""):`<div class="empty">Nema stanova za odabrane filtere. Proširite raspon cijene ili kvadrature, ili <button class="reset" type="button" onclick="resetAll()">poništite filtere</button>.</div>`;
+    </article>`).join(""):`<div class="empty">Nema oglasa za odabrane filtere. Proširite raspon cijene ili kvadrature, ili <button class="reset" type="button" onclick="resetAll()">poništite filtere</button>.</div>`;
 }
 
-function units(p){
-  // ostali stanovi u istoj zgradi (primjer)
-  const rows=[];for(let i=0;i<6;i++){
-    const m=+(p.m2*(0.65+((i*37+p.id*11)%55)/100)).toFixed(1);
-    const c=Math.round(m*p.m2c*(0.96+i*0.015)/1000)*1000;
-    rows.push({oz:"S"+(i+1),kat:i<2?"prizemlje":(Math.ceil(i/2))+". kat",m,sob:Math.max(1,Math.min(4,Math.round(m/26))),c,st:STATUSI[(i+p.id)%8]});
-  }
-  rows[(p.id)%6]={oz:"S"+((p.id)%6+1),kat:p.kat,m:p.m2,sob:p.sobe,c:p.cijena,st:"free",cur:true};
-  const lab={free:"Slobodan",res:"Rezerviran",sold:"Prodan"};
-  return `<div class="units"><table><thead><tr><th>Stan</th><th>Etaža</th><th>Sobe</th><th>Površina</th><th>Cijena</th><th>Status</th></tr></thead><tbody>${rows.map(u=>`<tr class="${u.cur?'cur':''}"><td>${u.oz}</td><td>${u.kat}</td><td class="n">${u.sob}</td><td class="n">${m2f(u.m)}</td><td class="n">${u.st==='sold'?'–':eur(u.c)}</td><td><span class="st ${u.st}">${lab[u.st]}</span></td></tr>`).join("")}</tbody></table></div>`;
-}
+function fillSelect(id,vals){vals.forEach(v=>{const o=document.createElement("option");o.value=v;o.textContent=v;$(id).appendChild(o);});}
 
-function openDetail(id){
-  const p=P.find(x=>x.id===id);if(!p)return;
-  const ov=$("overlay");
-  ov.innerHTML=`<div class="panel" role="dialog" aria-modal="true" aria-labelledby="dt">
-    <div class="ph">${art(p,true)}<button class="close" id="close" aria-label="Zatvori">×</button></div>
-    <div class="pbody">
-      <div><div class="loc">${p.kvart}, Zadar · ${useT(p.use)}</div><h2 id="dt">${p.naziv}</h2></div>
-      <div class="bigprice"><b>${eur(p.cijena)}</b><span>${p.m2c.toLocaleString("hr-HR")} €/m² · PDV uključen</span></div>
-      <dl class="facts">
-        <div><dt>Površina</dt><dd>${m2f(p.m2)}</dd></div>
-        <div><dt>Sobe</dt><dd>${soba(p.sobe)}</dd></div>
-        <div><dt>Etaža</dt><dd>${p.kat}</dd></div>
-        <div><dt>Energetski razred</dt><dd>${p.en}</dd></div>
-        <div><dt>Parking</dt><dd>${p.park}</dd></div>
-        <div><dt>Lift</dt><dd>${p.lift?"Da":"Ne"}</dd></div>
-        <div><dt>Terasa / vrt</dt><dd>${p.vrt?m2f(p.vrt):"–"}</dd></div>
-        <div><dt>Do mora</dt><dd>${p.more_km.toLocaleString("hr-HR")} km</dd></div>
-      </dl>
-      <p style="margin:0;max-width:65ch">${p.opis}</p>
-      <div class="tags">${p.dod.map(d=>`<span>${d}</span>`).join("")}${p.more?"<span>Pogled na more</span>":""}</div>
-      <div><h3 style="font-size:1.1rem;margin-bottom:10px">Ostali stanovi u zgradi</h3>${units(p)}</div>
-      <p class="inv">Investitor: <b>${p.inv}</b> (primjer)</p>
-      <form class="contact" id="cform" novalidate>
-        <h3>Pošaljite upit za ${p.naziv}</h3>
-        <div class="row2"><input id="cIme" placeholder="Ime i prezime" autocomplete="name"><input id="cTel" placeholder="Telefon" autocomplete="tel"></div>
-        <input id="cMail" type="email" placeholder="E-mail" autocomplete="email">
-        <textarea id="cPor" placeholder="Poruka">Zanima me ${p.naziv} (${m2f(p.m2)}, ${eur(p.cijena)}). Molim termin za razgledavanje.</textarea>
-        <span class="err" id="cErr" hidden>Upišite ime te ispravan e-mail ili broj telefona.</span>
-        <button class="btn" type="submit">Pošalji upit</button>
-        <span class="ok-msg" id="cOk" hidden>Upit je zaprimljen u ovoj demo verziji. U pravoj stranici stiže investitoru na e-mail.</span>
-      </form>
-    </div></div>`;
-  ov.hidden=false;document.body.style.overflow="hidden";
-  $("close").onclick=closeDetail;$("close").focus();
-  ov.onclick=e=>{if(e.target===ov)closeDetail();};
-  $("cform").onsubmit=e=>{e.preventDefault();
-    const ok=$("cIme").value.trim()&&(/\S+@\S+\.\S+/.test($("cMail").value)||$("cTel").value.replace(/\D/g,"").length>=8);
-    $("cErr").hidden=!!ok;if(ok){$("cOk").hidden=false;e.target.querySelector(".btn").disabled=true;}
-  };
-  if(location.hash!=="#stan-"+id)history.replaceState(null,"","#stan-"+id);
+function init(d){
+  O=d.oglasi;
+  const kv=[...new Set(O.map(o=>o.kvart).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"hr"));
+  fillSelect("kvart",kv);
+  fillSelect("agencija",[...new Set(O.map(o=>o.agencija))].sort((a,b)=>a.localeCompare(b,"hr")));
+  const c=O.filter(o=>o.cijena_m2).map(o=>o.cijena_m2).sort((a,b)=>a-b);
+  const med=c.length?c[Math.floor(c.length/2)]:null;
+  $("stats").innerHTML=`<div><b>${O.length}</b><span>oglasa</span></div><div><b>${d.izvori.length}</b><span>agencija</span></div><div><b>${med?med.toLocaleString("hr-HR")+" €":"–"}</b><span>medijan €/m²</span></div>`;
+  const t=new Date(d.azurirano);
+  $("azurirano").innerHTML=`Zadnje ažuriranje: <b>${t.toLocaleDateString("hr-HR")} u ${t.toLocaleTimeString("hr-HR",{hour:"2-digit",minute:"2-digit"})}</b>`;
+  $("srcList").innerHTML=d.izvori.map(i=>`<li><a href="${esc(i.web)}" target="_blank" rel="noopener">${esc(i.agencija)}</a> · ${brojOglasa(i.novogradnja)}${i.greska?" (zadnje preuzimanje nije uspjelo)":""}</li>`).join("");
+  render();
 }
-function closeDetail(){$("overlay").hidden=true;$("overlay").innerHTML="";document.body.style.overflow="";if(location.hash.startsWith("#stan-"))history.replaceState(null,"","#ponuda");}
-document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("overlay").hidden)closeDetail();});
 
 $("grid").addEventListener("click",e=>{
   const f=e.target.closest("[data-fav]");
-  if(f){e.stopPropagation();const id=+f.dataset.fav;favs.has(id)?favs.delete(id):favs.add(id);saveFav();render();return;}
-  const c=e.target.closest(".card");if(c)openDetail(+c.dataset.id);
+  if(f){const id=f.dataset.fav;favs.has(id)?favs.delete(id):favs.add(id);saveFav();render();}
 });
-$("grid").addEventListener("keydown",e=>{if(e.key==="Enter"&&e.target.classList.contains("card"))openDetail(+e.target.dataset.id);});
-
 const bind=(id,key,ev="input",prop="value")=>$(id).addEventListener(ev,e=>{S[key]=e.target[prop];render();});
-bind("q","q");bind("kvart","kvart","change");bind("cmin","cmin");bind("cmax","cmax");bind("pmin","pmin");bind("pmax","pmax");
-bind("useljenje","use","change");bind("sort","sort","change");
-bind("fMore","more","change","checked");bind("fPark","park","change","checked");bind("fLift","lift","change","checked");bind("fVrt","vrt","change","checked");
+bind("q","q");bind("kvart","kvart","change");bind("agencija","ag","change");bind("cmin","cmin");bind("cmax","cmax");bind("pmin","pmin");bind("pmax","pmax");
+bind("sort","sort","change");bind("fCijena","sCijenom","change","checked");bind("fNovo","novo","change","checked");
 $("onlyFav").onclick=e=>{S.onlyFav=!S.onlyFav;e.currentTarget.setAttribute("aria-pressed",S.onlyFav);render();};
 $("mobF").onclick=e=>{const o=$("filters").classList.toggle("open");e.currentTarget.setAttribute("aria-expanded",o);};
 function resetAll(){
-  Object.assign(S,{q:"",kvart:"",sobe:0,cmin:"",cmax:"",pmin:"",pmax:"",use:"",more:false,park:false,lift:false,vrt:false,onlyFav:false});
-  ["q","kvart","cmin","cmax","pmin","pmax","useljenje"].forEach(i=>$(i).value="");
-  ["fMore","fPark","fLift","fVrt"].forEach(i=>$(i).checked=false);
-  [...$("sobe").children].forEach(x=>x.setAttribute("aria-pressed",x.dataset.v==="0"));
+  Object.assign(S,{q:"",kvart:"",sobe:-1,cmin:"",cmax:"",pmin:"",pmax:"",ag:"",sCijenom:false,novo:false,onlyFav:false});
+  ["q","kvart","agencija","cmin","cmax","pmin","pmax"].forEach(i=>$(i).value="");
+  ["fCijena","fNovo"].forEach(i=>$(i).checked=false);
+  [...$("sobe").children].forEach(x=>x.setAttribute("aria-pressed",x.dataset.v==="-1"));
   $("onlyFav").setAttribute("aria-pressed","false");render();
 }
 $("reset").onclick=resetAll;
 
-function route(){const m=location.hash.match(/^#stan-(\d+)$/);if(m)openDetail(+m[1]);else if(!$("overlay").hidden)closeDetail();}
-window.addEventListener("hashchange",route);
-stats();render();route();
+fetch("podaci/oglasi.json",{cache:"no-cache"}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json();}).then(init).catch(()=>{
+  $("azurirano").textContent="";
+  $("grid").innerHTML='<div class="empty">Oglasi se trenutno ne mogu učitati. Osvježite stranicu za koju minutu.</div>';
+});
 </script>
+
 </body>
 </html>
