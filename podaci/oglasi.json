@@ -1,18 +1,18 @@
 {
- "azurirano": "2026-10-29T12:43:03Z",
+ "azurirano": "2026-10-29T12:45:05Z",
  "izvori": [
   {
    "agencija": "Artis nekretnine",
    "web": "https://www.artis-nekretnine.hr",
-   "ukupno": 10,
-   "novogradnja": 9,
+   "ukupno": 18,
+   "novogradnja": 17,
    "greska": null
   },
   {
    "agencija": "Top Lokacija nekretnine",
    "web": "https://www.toplokacija-nekretnine.com",
-   "ukupno": 10,
-   "novogradnja": 3,
+   "ukupno": 7,
+   "novogradnja": 4,
    "greska": null
   }
  ],
@@ -34,7 +34,7 @@
    "najam": false,
    "stan": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-29T12:43:03Z"
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
   },
   {
    "id": "artis:ekskluzivni-rezidencijalni-kompleks-dvije-moderne-zgrade-smjestene-na-svega-200-metara-od-sportskog-centra-visnjik-zavrsetak-10-05-2027",
@@ -53,7 +53,7 @@
    "najam": false,
    "stan": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-29T12:43:03Z"
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
   },
   {
    "id": "artis:zadar-belafuza-trosoban-stan-u-prizemlju-s-velikim-vrtom-za-osjecaj-kuce",
@@ -72,7 +72,7 @@
    "najam": false,
    "stan": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-29T12:43:03Z"
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
   },
   {
    "id": "artis:penthouse-zadar-bazen-useljivo-namjesteno-odlicna-lokacija",
@@ -91,7 +91,7 @@
    "najam": false,
    "stan": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-29T12:43:03Z"
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
   },
   {
    "id": "artis:zadar-belafuza-trosoban-stan-2-kat-novogradnja",
@@ -110,7 +110,7 @@
    "najam": false,
    "stan": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-29T12:43:03Z"
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
   },
   {
    "id": "artis:zadar-luksuzan-penthouse-mirna-lokacija-krovna-terasa-pogled-na-more-moderno-namjesten-i-opremljen",
@@ -129,7 +129,7 @@
    "najam": false,
    "stan": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-29T12:43:03Z"
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
   },
   {
    "id": "artis:zadar-plovanija-moderan-dvosoban-stan-s-velikim-vrtom-i-2-parkinga-prodaja",
@@ -148,7 +148,7 @@
    "najam": false,
    "stan": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-29T12:43:03Z"
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
   },
   {
    "id": "artis:zadar-plovanija-izvrstan-dvosoban-stan-na-prvom-katu-prodaja",
@@ -167,7 +167,7 @@
    "najam": false,
    "stan": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-29T12:43:03Z"
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
   },
   {
    "id": "artis:jednosoban-stan-na-izvrsnoj-lokaciji-plovanija-zadar-novogradnja-prodaja",
@@ -186,31 +186,164 @@
    "najam": false,
    "stan": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-29T12:43:03Z"
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
   },
   {
-   "id": "toplokacija:new-ly-constructed-apartments-in-zadar-diklo-residential-neighbourhood",
-   "naslov": "New ly constructed apartments in Zadar, Diklo (Residential neighbourhood)",
-   "url": "https://www.toplokacija-nekretnine.com/en/flats/new-ly-constructed-apartments-in-zadar-diklo-residential-neighbourhood",
-   "agencija": "Top Lokacija nekretnine",
-   "agencija_web": "https://www.toplokacija-nekretnine.com",
+   "id": "artis:ekskluzivan-dvosoban-penthouse-s-krovnom-terasom-plovanija-zadar-prodaja",
+   "naslov": "Ekskluzivan dvosoban penthouse s krovnom terasom - Plovanija, Zadar (prodaja)",
+   "url": "https://www.artis-nekretnine.hr/stanovi/ekskluzivan-dvosoban-penthouse-s-krovnom-terasom-plovanija-zadar-prodaja",
+   "agencija": "Artis nekretnine",
+   "agencija_web": "https://www.artis-nekretnine.hr",
    "grad": "Zadar",
-   "kvart": "Diklo",
-   "cijena": 403000,
-   "povrsina": null,
-   "cijena_m2": null,
-   "sobe": null,
-   "projekt": true,
+   "kvart": "Plovanija",
+   "cijena": 313900,
+   "povrsina": 95.0,
+   "cijena_m2": 3304,
+   "sobe": 2,
+   "projekt": false,
    "novogradnja": true,
    "najam": false,
    "stan": true,
-   "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-29T12:43:03Z"
+   "prvi_put_vidjen": "2026-10-29T12:45:05Z",
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
   },
   {
-   "id": "toplokacija:new-construction-for-sale-plovanija-zadar",
-   "naslov": "New construction for sale - Plovanija, Zadar",
-   "url": "https://www.toplokacija-nekretnine.com/en/flats/new-construction-for-sale-plovanija-zadar",
+   "id": "artis:prilika-namjesten-i-opremljen-stan-odlicna-lokacija-zadar-plovanija-prodaja",
+   "naslov": "PRILIKA! NAMJEŠTEN I OPREMLJEN STAN, ODLIČNA LOKACIJA, ZADAR PLOVANIJA (prodaja)",
+   "url": "https://www.artis-nekretnine.hr/stanovi/prilika-namjesten-i-opremljen-stan-odlicna-lokacija-zadar-plovanija-prodaja",
+   "agencija": "Artis nekretnine",
+   "agencija_web": "https://www.artis-nekretnine.hr",
+   "grad": "Zadar",
+   "kvart": "Plovanija",
+   "cijena": 219000,
+   "povrsina": 45.0,
+   "cijena_m2": 4867,
+   "sobe": null,
+   "projekt": false,
+   "novogradnja": true,
+   "najam": false,
+   "stan": true,
+   "prvi_put_vidjen": "2026-10-29T12:45:05Z",
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
+  },
+  {
+   "id": "artis:dvosoban-stan-zadar-maslina-visoko-prizemlje-s-vrtom",
+   "naslov": "Dvosoban stan, Zadar, Maslina, visoko prizemlje s vrtom",
+   "url": "https://www.artis-nekretnine.hr/stanovi/dvosoban-stan-zadar-maslina-visoko-prizemlje-s-vrtom",
+   "agencija": "Artis nekretnine",
+   "agencija_web": "https://www.artis-nekretnine.hr",
+   "grad": "Zadar",
+   "kvart": "Belafuža",
+   "cijena": 257000,
+   "povrsina": 70.0,
+   "cijena_m2": 3671,
+   "sobe": 2,
+   "projekt": false,
+   "novogradnja": true,
+   "najam": false,
+   "stan": true,
+   "prvi_put_vidjen": "2026-10-29T12:45:05Z",
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
+  },
+  {
+   "id": "artis:zadar-plovanija-komforan-trosoban-stan-potpuno-namjesten-useljivo",
+   "naslov": "ZADAR - PLOVANIJA: KOMFORAN TROSOBAN STAN, POTPUNO NAMJEŠTEN, USELJIVO",
+   "url": "https://www.artis-nekretnine.hr/stanovi/zadar-plovanija-komforan-trosoban-stan-potpuno-namjesten-useljivo",
+   "agencija": "Artis nekretnine",
+   "agencija_web": "https://www.artis-nekretnine.hr",
+   "grad": "Zadar",
+   "kvart": "Plovanija",
+   "cijena": 463500,
+   "povrsina": 102.0,
+   "cijena_m2": 4544,
+   "sobe": 3,
+   "projekt": false,
+   "novogradnja": true,
+   "najam": false,
+   "stan": true,
+   "prvi_put_vidjen": "2026-10-29T12:45:05Z",
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
+  },
+  {
+   "id": "artis:komforan-dvosoban-stan-prvi-kat-zadar-bokanjac",
+   "naslov": "Komforan dvosoban stan, prvi kat, Zadar - Bokanjac",
+   "url": "https://www.artis-nekretnine.hr/stanovi/komforan-dvosoban-stan-prvi-kat-zadar-bokanjac",
+   "agencija": "Artis nekretnine",
+   "agencija_web": "https://www.artis-nekretnine.hr",
+   "grad": "Zadar",
+   "kvart": "Bokanjac",
+   "cijena": 259000,
+   "povrsina": 81.0,
+   "cijena_m2": 3198,
+   "sobe": 2,
+   "projekt": false,
+   "novogradnja": true,
+   "najam": false,
+   "stan": true,
+   "prvi_put_vidjen": "2026-10-29T12:45:05Z",
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
+  },
+  {
+   "id": "artis:zadar-bokanjac-s1-komforan-dvosoban-stan-u-prizemlju-s-vrtom",
+   "naslov": "Zadar, Bokanjac, S1 komforan dvosoban stan u prizemlju s vrtom",
+   "url": "https://www.artis-nekretnine.hr/stanovi/zadar-bokanjac-s1-komforan-dvosoban-stan-u-prizemlju-s-vrtom",
+   "agencija": "Artis nekretnine",
+   "agencija_web": "https://www.artis-nekretnine.hr",
+   "grad": "Zadar",
+   "kvart": "Bokanjac",
+   "cijena": 228000,
+   "povrsina": 73.0,
+   "cijena_m2": 3123,
+   "sobe": 1,
+   "projekt": false,
+   "novogradnja": true,
+   "najam": false,
+   "stan": true,
+   "prvi_put_vidjen": "2026-10-29T12:45:05Z",
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
+  },
+  {
+   "id": "artis:zadar-bokanjac-s2-dvosoban-stan-u-prizemlju-s-vrtom",
+   "naslov": "Zadar, Bokanjac, S2 dvosoban stan u prizemlju s vrtom",
+   "url": "https://www.artis-nekretnine.hr/stanovi/zadar-bokanjac-s2-dvosoban-stan-u-prizemlju-s-vrtom",
+   "agencija": "Artis nekretnine",
+   "agencija_web": "https://www.artis-nekretnine.hr",
+   "grad": "Zadar",
+   "kvart": "Bokanjac",
+   "cijena": 235000,
+   "povrsina": 76.0,
+   "cijena_m2": 3092,
+   "sobe": 2,
+   "projekt": false,
+   "novogradnja": true,
+   "najam": false,
+   "stan": true,
+   "prvi_put_vidjen": "2026-10-29T12:45:05Z",
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
+  },
+  {
+   "id": "artis:zadar-bokanjac-dvosoban-stan-na-drugom-katu",
+   "naslov": "Zadar, Bokanjac, dvosoban stan na drugom katu",
+   "url": "https://www.artis-nekretnine.hr/stanovi/zadar-bokanjac-dvosoban-stan-na-drugom-katu",
+   "agencija": "Artis nekretnine",
+   "agencija_web": "https://www.artis-nekretnine.hr",
+   "grad": "Zadar",
+   "kvart": "Bokanjac",
+   "cijena": 205000,
+   "povrsina": 65.0,
+   "cijena_m2": 3154,
+   "sobe": 2,
+   "projekt": false,
+   "novogradnja": true,
+   "najam": false,
+   "stan": true,
+   "prvi_put_vidjen": "2026-10-29T12:45:05Z",
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
+  },
+  {
+   "id": "toplokacija:novogradnja-prodaja-plovanija-zadar",
+   "naslov": "Novogradnja (prodaja) - Plovanija, Zadar",
+   "url": "https://www.toplokacija-nekretnine.com/stanovi/novogradnja-prodaja-plovanija-zadar",
    "agencija": "Top Lokacija nekretnine",
    "agencija_web": "https://www.toplokacija-nekretnine.com",
    "grad": "Zadar",
@@ -223,27 +356,65 @@
    "novogradnja": true,
    "najam": false,
    "stan": true,
-   "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-29T12:43:03Z"
+   "prvi_put_vidjen": "2026-10-29T12:45:05Z",
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
   },
   {
-   "id": "toplokacija:plovanija-new-apartment-2026-for-sale-fully-furnished",
-   "naslov": "Plovanija - new apartment (2026) for sale, fully furnished",
-   "url": "https://www.toplokacija-nekretnine.com/en/flats/plovanija-new-apartment-2026-for-sale-fully-furnished",
+   "id": "toplokacija:novogradnja-u-diklo-zadar-rezidencijalno-okruzenje-stanovi",
+   "naslov": "Novogradnja u Diklo, Zadar (Rezidencijalno okruženje, stanovi)",
+   "url": "https://www.toplokacija-nekretnine.com/stanovi/novogradnja-u-diklo-zadar-rezidencijalno-okruzenje-stanovi",
    "agencija": "Top Lokacija nekretnine",
    "agencija_web": "https://www.toplokacija-nekretnine.com",
    "grad": "Zadar",
-   "kvart": "Plovanija",
-   "cijena": 305000,
-   "povrsina": 77.0,
-   "cijena_m2": 3961,
+   "kvart": "Diklo",
+   "cijena": 403000,
+   "povrsina": null,
+   "cijena_m2": null,
    "sobe": null,
    "projekt": false,
    "novogradnja": true,
    "najam": false,
    "stan": true,
-   "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-29T12:43:03Z"
+   "prvi_put_vidjen": "2026-10-29T12:45:05Z",
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
+  },
+  {
+   "id": "toplokacija:privlaka-zadar-novogradnja-stanovi-na-prodaju",
+   "naslov": "Privlaka, Zadar - novogradnja, stanovi na prodaju",
+   "url": "https://www.toplokacija-nekretnine.com/stanovi/privlaka-zadar-novogradnja-stanovi-na-prodaju",
+   "agencija": "Top Lokacija nekretnine",
+   "agencija_web": "https://www.toplokacija-nekretnine.com",
+   "grad": "Zadar",
+   "kvart": "Stanovi",
+   "cijena": 231000,
+   "povrsina": 74.0,
+   "cijena_m2": 3122,
+   "sobe": null,
+   "projekt": false,
+   "novogradnja": true,
+   "najam": false,
+   "stan": true,
+   "prvi_put_vidjen": "2026-10-29T12:45:05Z",
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
+  },
+  {
+   "id": "toplokacija:prodaja-cijele-zgrade-u-kompletu-novogradnja-plovanija",
+   "naslov": "PRODAJA CIJELE ZGRADE U KOMPLETU - NOVOGRADNJA - PLOVANIJA",
+   "url": "https://www.toplokacija-nekretnine.com/stanovi/prodaja-cijele-zgrade-u-kompletu-novogradnja-plovanija",
+   "agencija": "Top Lokacija nekretnine",
+   "agencija_web": "https://www.toplokacija-nekretnine.com",
+   "grad": "Zadar",
+   "kvart": "Plovanija",
+   "cijena": 2600000,
+   "povrsina": null,
+   "cijena_m2": null,
+   "sobe": null,
+   "projekt": true,
+   "novogradnja": true,
+   "najam": false,
+   "stan": true,
+   "prvi_put_vidjen": "2026-10-29T12:45:05Z",
+   "zadnji_put_vidjen": "2026-10-29T12:45:05Z"
   }
  ]
 }
