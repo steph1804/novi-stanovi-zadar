@@ -24,13 +24,23 @@ IZLAZ = Path(__file__).resolve().parent.parent / "podaci" / "oglasi.json"
 NOVOGRADNJA = re.compile(r"novogradnj|nova gradnja|novoizgra|u izgradnji|new ?construction|newly built|new[ -]?ly constructed|new building|new apartment|neubau|izgradnja|završetak|zavrsetak|completion", re.I)
 NAJAM = re.compile(r"najam|rent|vermiet|miete", re.I)
 
+# Riječi imaju prednost pred oznakama stanova poput "S1", koje su često samo broj stana u zgradi.
 SOBE = [
     (re.compile(r"garsonijer|studio", re.I), 0),
-    (re.compile(r"jednosob|1[ -]?sob|one[- ]bedroom|\bs1\b", re.I), 1),
-    (re.compile(r"dvosob|2[ -]?sob|two[- ]bedroom|\bs2\b", re.I), 2),
-    (re.compile(r"trosob|3[ -]?sob|three[- ]bedroom|\bs3\b", re.I), 3),
-    (re.compile(r"četverosob|cetverosob|4[ -]?sob|four[- ]bedroom|\bs4\b", re.I), 4),
+    (re.compile(r"jednosob|one[- ]bedroom", re.I), 1),
+    (re.compile(r"dvosob|two[- ]bedroom", re.I), 2),
+    (re.compile(r"trosob|three[- ]bedroom", re.I), 3),
+    (re.compile(r"četverosob|cetverosob|four[- ]bedroom", re.I), 4),
+    (re.compile(r"\b1[ -]?sob", re.I), 1),
+    (re.compile(r"\b2[ -]?sob", re.I), 2),
+    (re.compile(r"\b3[ -]?sob", re.I), 3),
+    (re.compile(r"\b4[ -]?sob", re.I), 4),
 ]
+
+# Mjesta u okolici koja nisu dio grada Zadra, iako ih agencije često navode uz "Zadar".
+OKOLICA = re.compile(r"\b(privlaka|vir|nin|sukošan|sukosan|bibinje|petrčane|petrcane|zaton|sv\.? filip|biograd|pakoštane|"
+                     r"posedarje|ražanac|razanac|poličnik|policnik|murvica|ugljan|pašman|pasman|dugi otok|"
+                     r"turanj|sveti petar|tkon|starigrad|novigrad|kukljica)\b", re.I)
 
 
 def broj(tekst):
@@ -57,7 +67,7 @@ def sobe_iz_naslova(naslov):
 
 KVARTOVI = ["Arbanasi", "Belafuža", "Bili Brig", "Bokanjac", "Novi Bokanjac", "Borik", "Brodarica", "Crvene kuće",
             "Diklo", "Dračevac", "Gaženica", "Jazine", "Kožino", "Puntamika", "Plovanija", "Poluotok", "Relja",
-            "Smiljevac", "Stanovi", "Sinjoretovo", "Vidikovac", "Višnjik", "Voštarnica", "Ploča", "Ričina", "Maslina"]
+            "Smiljevac", "Sinjoretovo", "Vidikovac", "Višnjik", "Voštarnica", "Ploča", "Ričina", "Maslina"]
 
 
 def bez_kvacica(t):
@@ -189,7 +199,8 @@ def normaliziraj(o, agencija, sada):
 
 
 def zadrzi(o):
-    return o["stan"] and o["novogradnja"] and not o["najam"] and o["grad"].lower() == "zadar"
+    return (o["stan"] and o["novogradnja"] and not o["najam"] and o["grad"].lower() == "zadar"
+            and not OKOLICA.search(o["naslov"]))
 
 
 def main():
