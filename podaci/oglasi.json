@@ -1,5 +1,5 @@
 {
- "azurirano": "2026-10-30T05:39:09Z",
+ "azurirano": "2026-10-31T05:33:38Z",
  "izvori": [
   {
    "agencija": "Artis nekretnine",
@@ -32,8 +32,8 @@
   {
    "agencija": "Demare nekretnine",
    "web": "https://www.demare.hr",
-   "ukupno": 116,
-   "novogradnja": 70,
+   "ukupno": 118,
+   "novogradnja": 72,
    "greska": null
   },
   {
@@ -74,7 +74,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:ekskluzivni-rezidencijalni-kompleks-dvije-moderne-zgrade-smjestene-na-svega-200-metara-od-sportskog-centra-visnjik-zavrsetak-10-05-2027",
@@ -91,7 +91,7 @@
    "projekt": true,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:zadar-belafuza-trosoban-stan-u-prizemlju-s-velikim-vrtom-za-osjecaj-kuce",
@@ -108,7 +108,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:penthouse-zadar-bazen-useljivo-namjesteno-odlicna-lokacija",
@@ -125,7 +125,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:zadar-belafuza-trosoban-stan-2-kat-novogradnja",
@@ -142,7 +142,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:zadar-luksuzan-penthouse-mirna-lokacija-krovna-terasa-pogled-na-more-moderno-namjesten-i-opremljen",
@@ -159,7 +159,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:zadar-plovanija-moderan-dvosoban-stan-s-velikim-vrtom-i-2-parkinga-prodaja",
@@ -176,7 +176,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:zadar-plovanija-izvrstan-dvosoban-stan-na-prvom-katu-prodaja",
@@ -193,7 +193,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:jednosoban-stan-na-izvrsnoj-lokaciji-plovanija-zadar-novogradnja-prodaja",
@@ -210,7 +210,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:43:03Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:ekskluzivan-dvosoban-penthouse-s-krovnom-terasom-plovanija-zadar-prodaja",
@@ -227,7 +227,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:45:05Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:prilika-namjesten-i-opremljen-stan-odlicna-lokacija-zadar-plovanija-prodaja",
@@ -244,7 +244,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:45:05Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:dvosoban-stan-zadar-maslina-visoko-prizemlje-s-vrtom",
@@ -261,7 +261,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:45:05Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:zadar-plovanija-komforan-trosoban-stan-potpuno-namjesten-useljivo",
@@ -278,7 +278,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:45:05Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:komforan-dvosoban-stan-prvi-kat-zadar-bokanjac",
@@ -295,7 +295,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:45:05Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:zadar-bokanjac-s1-komforan-dvosoban-stan-u-prizemlju-s-vrtom",
@@ -312,7 +312,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:45:05Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:zadar-bokanjac-s2-dvosoban-stan-u-prizemlju-s-vrtom",
@@ -329,7 +329,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:45:05Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "artis:zadar-bokanjac-dvosoban-stan-na-drugom-katu",
@@ -346,7 +346,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:45:05Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "toplokacija:novogradnja-prodaja-plovanija-zadar",
@@ -363,7 +363,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:45:05Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "toplokacija:novogradnja-u-diklo-zadar-rezidencijalno-okruzenje-stanovi",
@@ -380,7 +380,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:45:05Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "toplokacija:prodaja-cijele-zgrade-u-kompletu-novogradnja-plovanija",
@@ -397,7 +397,7 @@
    "projekt": true,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T12:45:05Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "mareta:189907-prodaja-stan-1-5-sobni-1sdb-zadarska-zupanija-zadar",
@@ -414,7 +414,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "mareta:189906-prodaja-stan-2-5-sobni-2sdb-zadarska-zupanija-zadar",
@@ -431,7 +431,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "mareta:189905-prodaja-stan-1-5-sobni-1sdb-zadarska-zupanija-zadar",
@@ -448,7 +448,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "mareta:189908-prodaja-stan-1-5-sobni-1sdb-zadarska-zupanija-zadar",
@@ -465,7 +465,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1384-zadar-diklo",
@@ -482,7 +482,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1382-zadar-crvene-kuce",
@@ -499,7 +499,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1380-zadar-crvene-kuce",
@@ -516,7 +516,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1381-zadar-crvene-kuce",
@@ -533,7 +533,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1373-zadar-diklo",
@@ -550,7 +550,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1371-zadar-diklo",
@@ -567,7 +567,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1368-zadar-diklo",
@@ -584,7 +584,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1366-zadar-borik",
@@ -601,7 +601,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1369-zadar-diklo",
@@ -618,7 +618,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1240-zadar-borik",
@@ -635,7 +635,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1364-zadar-borik",
@@ -652,7 +652,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1243-zadar-borik",
@@ -669,7 +669,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1351-zadar-crvene-kuce",
@@ -686,7 +686,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1344-zadar-bili-brig",
@@ -703,7 +703,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1352-zadar-crvene-kuce",
@@ -720,7 +720,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1335-zadar-vidikovac",
@@ -737,7 +737,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1317-zadar-borik",
@@ -747,14 +747,14 @@
    "agencija_web": "https://www.emporia-nekretnine.com",
    "grad": "Zadar",
    "kvart": "Borik",
-   "cijena": 460000,
+   "cijena": 435000,
    "povrsina": 86.59,
-   "cijena_m2": 5312,
+   "cijena_m2": 5024,
    "sobe": 3,
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1346-zadar-bili-brig",
@@ -771,7 +771,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1337-zadar-vidikovac",
@@ -788,7 +788,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1347-zadar-bili-brig",
@@ -805,7 +805,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1312-zadar-borik",
@@ -822,7 +822,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1343-zadar-vidikovac",
@@ -839,7 +839,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1338-zadar-vidikovac",
@@ -856,7 +856,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1306-zadar-crvene-kuce",
@@ -873,7 +873,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1342-zadar-vidikovac",
@@ -890,7 +890,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1333-zadar-crvene-kuce",
@@ -907,7 +907,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1307-zadar-crvene-kuce",
@@ -924,7 +924,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1014-zadar-diklo",
@@ -941,7 +941,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1305-zadar-crvene-kuce",
@@ -958,7 +958,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1332-zadar-crvene-kuce",
@@ -975,7 +975,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1016-zadar-diklo",
@@ -992,7 +992,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1298-zadar-belafuza",
@@ -1009,7 +1009,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1341-zadar-vidikovac",
@@ -1026,7 +1026,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1018-zadar-diklo",
@@ -1043,7 +1043,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1268-zadar-borik",
@@ -1060,7 +1060,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1265-zadar-diklo",
@@ -1077,7 +1077,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1017-zadar-diklo",
@@ -1094,7 +1094,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1023-zadar-diklo",
@@ -1111,7 +1111,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1266-zadar-diklo",
@@ -1128,7 +1128,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1020-zadar-diklo",
@@ -1145,7 +1145,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1254-zadar-borik",
@@ -1162,7 +1162,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1264-zadar-diklo",
@@ -1179,7 +1179,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1019-zadar-diklo",
@@ -1196,7 +1196,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1024-zadar-diklo",
@@ -1213,7 +1213,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1021-zadar-diklo",
@@ -1230,7 +1230,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1022-zadar-diklo",
@@ -1247,7 +1247,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1183-zadar-plovanija",
@@ -1264,7 +1264,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1231-zadar-diklo",
@@ -1281,7 +1281,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1056-zadar-vidikovac",
@@ -1298,7 +1298,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1060-zadar-vidikovac",
@@ -1315,7 +1315,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f1058-zadar-vidikovac",
@@ -1332,7 +1332,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "emporia:stan-f889-zadar-poluotok-stari-dio-grada",
@@ -1349,296 +1349,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-diklovac-5509",
-   "naslov": "Trosoban stan, 117,55 m², Diklovac",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklovac-5509.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Diklovac",
-   "cijena": 494238,
-   "povrsina": 117.55,
-   "cijena_m2": 4204,
-   "sobe": 3,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-vostarnica-5403",
-   "naslov": "Dvosoban stan, 49,24 m², Voštarnica",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-vostarnica-5403.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Voštarnica",
-   "cijena": 258510,
-   "povrsina": 49.24,
-   "cijena_m2": 5250,
-   "sobe": 2,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-bokanjac-5520",
-   "naslov": "Trosoban stan, 80,75 m², Bokanjac",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-bokanjac-5520.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Bokanjac",
-   "cijena": 299000,
-   "povrsina": 80.75,
-   "cijena_m2": 3703,
-   "sobe": 3,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-crvene-kuce-5156",
-   "naslov": "Trosoban stan, 105,21 m², Crvene kuće",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-crvene-kuce-5156.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Crvene kuće",
-   "cijena": 399798,
-   "povrsina": 105.21,
-   "cijena_m2": 3800,
-   "sobe": 3,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-diklo-5419",
-   "naslov": "Četverosoban stan, 181 m², Diklo",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-5419.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Diklo",
-   "cijena": null,
-   "povrsina": 181,
-   "cijena_m2": null,
-   "sobe": 4,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-diklo-5418",
-   "naslov": "Trosoban stan, 120,88 m², Diklo",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-5418.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Diklo",
-   "cijena": null,
-   "povrsina": 120.88,
-   "cijena_m2": null,
-   "sobe": 3,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-diklo-5420",
-   "naslov": "Trosoban stan, 181,59 m², Diklo",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-5420.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Diklo",
-   "cijena": null,
-   "povrsina": 181.59,
-   "cijena_m2": null,
-   "sobe": 3,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-diklovac-5508",
-   "naslov": "Trosoban stan, 89,5 m², Diklovac",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklovac-5508.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Diklovac",
-   "cijena": 376302,
-   "povrsina": 89.5,
-   "cijena_m2": 4204,
-   "sobe": 3,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-diklovac-5507",
-   "naslov": "Trosoban stan, 91,7 m², Diklovac",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklovac-5507.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Diklovac",
-   "cijena": 385552,
-   "povrsina": 91.7,
-   "cijena_m2": 4204,
-   "sobe": 3,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-diklovac-5506",
-   "naslov": "Trosoban stan, 96,1 m², Diklovac",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklovac-5506.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Diklovac",
-   "cijena": 383849,
-   "povrsina": 96.1,
-   "cijena_m2": 3994,
-   "sobe": 3,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-diklovac-5505",
-   "naslov": "Trosoban stan, 83,83 m², Diklovac",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklovac-5505.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Diklovac",
-   "cijena": 365468,
-   "povrsina": 83.83,
-   "cijena_m2": 4360,
-   "sobe": 3,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-diklovac-5504",
-   "naslov": "Dvosoban stan, 77,05 m², Diklovac",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklovac-5504.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Diklovac",
-   "cijena": 323400,
-   "povrsina": 77.05,
-   "cijena_m2": 4197,
-   "sobe": 2,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-bili-brig-5021",
-   "naslov": "Trosoban stan, 106 m², Bili Brig",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-bili-brig-5021.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Bili Brig",
-   "cijena": 415000,
-   "povrsina": 106,
-   "cijena_m2": 3915,
-   "sobe": 3,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-vidikovac-5473",
-   "naslov": "Četverosoban stan, 90,35 m², Vidikovac",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-vidikovac-5473.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Vidikovac",
-   "cijena": 346831,
-   "povrsina": 90.35,
-   "cijena_m2": 3839,
-   "sobe": 4,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-crvene-kuce-5160",
-   "naslov": "Trosoban stan, 78,27 m², Crvene kuće",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-crvene-kuce-5160.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Crvene kuće",
-   "cijena": 313080,
-   "povrsina": 78.27,
-   "cijena_m2": 4000,
-   "sobe": 3,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-crvene-kuce-5162",
-   "naslov": "Trosoban stan, 78,27 m², Crvene kuće",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-crvene-kuce-5162.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Crvene kuće",
-   "cijena": 313080,
-   "povrsina": 78.27,
-   "cijena_m2": 4000,
-   "sobe": 3,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
-  },
-  {
-   "id": "demare:zadar-novi-bokanjac-5409",
-   "naslov": "Trosoban stan, 75,6 m², Novi Bokanjac",
-   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-novi-bokanjac-5409.html",
-   "agencija": "Demare nekretnine",
-   "agencija_web": "https://www.demare.hr",
-   "grad": "Zadar",
-   "kvart": "Novi Bokanjac",
-   "cijena": 235000,
-   "povrsina": 75.6,
-   "cijena_m2": 3108,
-   "sobe": 3,
-   "projekt": false,
-   "novogradnja": true,
-   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-novi-bokanjac-5408",
@@ -1655,7 +1366,24 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-novi-bokanjac-5409",
+   "naslov": "Trosoban stan, 75,6 m², Novi Bokanjac",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-novi-bokanjac-5409.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Novi Bokanjac",
+   "cijena": 235000,
+   "povrsina": 75.6,
+   "cijena_m2": 3108,
+   "sobe": 3,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-novi-bokanjac-5413",
@@ -1672,7 +1400,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-novi-bokanjac-5414",
@@ -1689,7 +1417,313 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-novi-bokanjac-5522",
+   "naslov": "Dvosoban stan, 57,22 m², Novi Bokanjac",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-novi-bokanjac-5522.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Novi Bokanjac",
+   "cijena": 219900,
+   "povrsina": 57.22,
+   "cijena_m2": 3843,
+   "sobe": 2,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-31T05:33:38Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-novi-bokanjac-5521",
+   "naslov": "Dvosoban stan, 57,22 m², Novi Bokanjac",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-novi-bokanjac-5521.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Novi Bokanjac",
+   "cijena": 219900,
+   "povrsina": 57.22,
+   "cijena_m2": 3843,
+   "sobe": 2,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-31T05:33:38Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-diklovac-5509",
+   "naslov": "Trosoban stan, 117,55 m², Diklovac",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklovac-5509.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Diklovac",
+   "cijena": 494238,
+   "povrsina": 117.55,
+   "cijena_m2": 4204,
+   "sobe": 3,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-vostarnica-5403",
+   "naslov": "Dvosoban stan, 49,24 m², Voštarnica",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-vostarnica-5403.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Voštarnica",
+   "cijena": 258510,
+   "povrsina": 49.24,
+   "cijena_m2": 5250,
+   "sobe": 2,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-bokanjac-5520",
+   "naslov": "Trosoban stan, 80,75 m², Bokanjac",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-bokanjac-5520.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Bokanjac",
+   "cijena": 299000,
+   "povrsina": 80.75,
+   "cijena_m2": 3703,
+   "sobe": 3,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-crvene-kuce-5156",
+   "naslov": "Trosoban stan, 105,21 m², Crvene kuće",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-crvene-kuce-5156.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Crvene kuće",
+   "cijena": 399798,
+   "povrsina": 105.21,
+   "cijena_m2": 3800,
+   "sobe": 3,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-diklo-5419",
+   "naslov": "Četverosoban stan, 181 m², Diklo",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-5419.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Diklo",
+   "cijena": null,
+   "povrsina": 181,
+   "cijena_m2": null,
+   "sobe": 4,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-diklo-5418",
+   "naslov": "Trosoban stan, 120,88 m², Diklo",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-5418.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Diklo",
+   "cijena": null,
+   "povrsina": 120.88,
+   "cijena_m2": null,
+   "sobe": 3,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-diklo-5420",
+   "naslov": "Trosoban stan, 181,59 m², Diklo",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-5420.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Diklo",
+   "cijena": null,
+   "povrsina": 181.59,
+   "cijena_m2": null,
+   "sobe": 3,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-diklovac-5508",
+   "naslov": "Trosoban stan, 89,5 m², Diklovac",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklovac-5508.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Diklovac",
+   "cijena": 376302,
+   "povrsina": 89.5,
+   "cijena_m2": 4204,
+   "sobe": 3,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-diklovac-5507",
+   "naslov": "Trosoban stan, 91,7 m², Diklovac",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklovac-5507.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Diklovac",
+   "cijena": 385552,
+   "povrsina": 91.7,
+   "cijena_m2": 4204,
+   "sobe": 3,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-diklovac-5506",
+   "naslov": "Trosoban stan, 96,1 m², Diklovac",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklovac-5506.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Diklovac",
+   "cijena": 383849,
+   "povrsina": 96.1,
+   "cijena_m2": 3994,
+   "sobe": 3,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-diklovac-5505",
+   "naslov": "Trosoban stan, 83,83 m², Diklovac",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklovac-5505.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Diklovac",
+   "cijena": 365468,
+   "povrsina": 83.83,
+   "cijena_m2": 4360,
+   "sobe": 3,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-diklovac-5504",
+   "naslov": "Dvosoban stan, 77,05 m², Diklovac",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-diklovac-5504.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Diklovac",
+   "cijena": 323400,
+   "povrsina": 77.05,
+   "cijena_m2": 4197,
+   "sobe": 2,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-bili-brig-5021",
+   "naslov": "Trosoban stan, 106 m², Bili Brig",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-bili-brig-5021.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Bili Brig",
+   "cijena": 415000,
+   "povrsina": 106,
+   "cijena_m2": 3915,
+   "sobe": 3,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-vidikovac-5473",
+   "naslov": "Četverosoban stan, 90,35 m², Vidikovac",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-vidikovac-5473.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Vidikovac",
+   "cijena": 346831,
+   "povrsina": 90.35,
+   "cijena_m2": 3839,
+   "sobe": 4,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-crvene-kuce-5160",
+   "naslov": "Trosoban stan, 78,27 m², Crvene kuće",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-crvene-kuce-5160.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Crvene kuće",
+   "cijena": 313080,
+   "povrsina": 78.27,
+   "cijena_m2": 4000,
+   "sobe": 3,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
+  },
+  {
+   "id": "demare:zadar-crvene-kuce-5162",
+   "naslov": "Trosoban stan, 78,27 m², Crvene kuće",
+   "url": "https://www.demare.hr/nekretnine/stanovi/zadar-crvene-kuce-5162.html",
+   "agencija": "Demare nekretnine",
+   "agencija_web": "https://www.demare.hr",
+   "grad": "Zadar",
+   "kvart": "Crvene kuće",
+   "cijena": 313080,
+   "povrsina": 78.27,
+   "cijena_m2": 4000,
+   "sobe": 3,
+   "projekt": false,
+   "novogradnja": true,
+   "prvi_put_vidjen": "2026-10-29T20:21:07Z",
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-belafuza-5171",
@@ -1706,7 +1740,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-diklo-4315",
@@ -1723,7 +1757,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-diklo-4624",
@@ -1740,7 +1774,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-borik-4721",
@@ -1757,7 +1791,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-borik-4725",
@@ -1774,7 +1808,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-visnjik-5056",
@@ -1791,7 +1825,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-visnjik-5059",
@@ -1808,7 +1842,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-bili-brig-5098",
@@ -1825,7 +1859,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-bili-brig-5103",
@@ -1842,7 +1876,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-bili-brig-5104",
@@ -1859,7 +1893,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-bili-brig-5108",
@@ -1876,7 +1910,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-skrocini-5214",
@@ -1893,7 +1927,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-crvene-kuce-5247",
@@ -1910,7 +1944,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-crvene-kuce-5248",
@@ -1927,7 +1961,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-crvene-kuce-5249",
@@ -1944,7 +1978,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-crvene-kuce-5250",
@@ -1961,7 +1995,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-crvene-kuce-5251",
@@ -1978,7 +2012,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-vidikovac-5255",
@@ -1995,7 +2029,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-vidikovac-5257",
@@ -2012,7 +2046,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-vidikovac-5258",
@@ -2029,7 +2063,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-vidikovac-5260",
@@ -2046,7 +2080,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-vidikovac-5261",
@@ -2063,7 +2097,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-vidikovac-5262",
@@ -2080,7 +2114,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-vidikovac-4778",
@@ -2097,7 +2131,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-bili-brig-5360",
@@ -2114,7 +2148,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-visnjik-5480",
@@ -2131,7 +2165,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-visnjik-5431",
@@ -2148,7 +2182,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-visnjik-5429",
@@ -2165,7 +2199,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-visnjik-5308",
@@ -2182,7 +2216,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-diklo-5053",
@@ -2199,7 +2233,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-diklo-5054",
@@ -2216,7 +2250,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-diklo-5055",
@@ -2233,7 +2267,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-borik-5435",
@@ -2250,7 +2284,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-borik-5436",
@@ -2267,7 +2301,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-borik-5438",
@@ -2284,7 +2318,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-borik-5439",
@@ -2301,7 +2335,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-borik-5440",
@@ -2318,7 +2352,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-borik-5441",
@@ -2335,7 +2369,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-vidikovac-5472",
@@ -2352,7 +2386,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-vidikovac-5471",
@@ -2369,7 +2403,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-vidikovac-5470",
@@ -2386,7 +2420,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-vidikovac-5469",
@@ -2403,7 +2437,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-vidikovac-5467",
@@ -2420,7 +2454,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-vidikovac-5466",
@@ -2437,7 +2471,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-vidikovac-5465",
@@ -2454,7 +2488,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-skrocini-5457",
@@ -2471,7 +2505,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-skrocini-5456",
@@ -2488,7 +2522,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-bili-brig-5311",
@@ -2505,7 +2539,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-diklo-5304",
@@ -2522,7 +2556,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "demare:zadar-diklo-5305",
@@ -2539,7 +2573,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:32:54Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "ninadom:realestate-2824-zadar-crvene-kuce-new-build-apartment-with-garden-and-garage-103-85-m",
@@ -2556,7 +2590,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-jednosoban-stan-na-top-lokaciji-s-liftom-i-garazom",
@@ -2573,7 +2607,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novo-luksuzan-stan-s-panoramskim-pogledom-na-more-borik-zadar-74-m%c2%b2",
@@ -2590,7 +2624,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-plovanija-trosoban-stan-s-krovnom-terasom-i-pogledom",
@@ -2607,7 +2641,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-plovanija-dvosoban-stan-s-pogledom-na-1-katu-s3-67m2",
@@ -2624,7 +2658,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-plovanija-dvosoban-stan-u-novogradnji-s-vrtom-s2-72m2",
@@ -2641,7 +2675,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-plovanija-dvosoban-stan-u-novogradnji-s-vrtom-s1-65-88",
@@ -2658,7 +2692,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-visnjik-stan-u-novogradnji-prizemlje-48m2-top-lokacija",
@@ -2675,7 +2709,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-maraska-park-namjesten-dvoetazan-trosoban-stan-86m2",
@@ -2692,7 +2726,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-borik-penthouse-s-pogledom-92-m2-krovna-terasa",
@@ -2709,7 +2743,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:borik-zadar-penthouse-s-pogledom-84-m2-krovna-terasa",
@@ -2726,7 +2760,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:top-lokacija-komforan-dvosoban-stan-77-m2-1-kat-borik-zadar",
@@ -2743,7 +2777,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-luksuzan-stan-s-bazenom-u-novogradnji",
@@ -2760,7 +2794,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-borik-luksuzan-stan-povrsine-107m2-novogradnja",
@@ -2777,7 +2811,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-novogradnja-trosoban-penthouse-s-otvorenim-pogledom",
@@ -2794,7 +2828,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-plovanija-trosoban-penthouse-s-otvorenim-pogledom",
@@ -2811,7 +2845,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-dvosoban-stan-na-1-katu-s-otvorenim-pogledom",
@@ -2828,7 +2862,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-plovanija-komforan-dvosoban-stan-na-1-katu-novogradnje",
@@ -2845,7 +2879,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-novogradnja-komforan-dvosoban-stan-u-prizemlju-s-vrtom",
@@ -2862,7 +2896,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-plovanija-komforan-dvosoban-stan-s-vrtom-u-novogradnji",
@@ -2879,7 +2913,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:luksuzan-trosoban-penthouse-na-top-lokaciji-na-boriku-u-zadru",
@@ -2896,7 +2930,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:top-cijena-penthouse-s-krovnom-terasom-i-otvorenim-pogledom",
@@ -2913,7 +2947,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:prilika-komforan-dvosoban-stan-s-vrtom-i-pogledom-novogradnja",
@@ -2930,7 +2964,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-vidikovac-komforan-penthouse-s-pogledom",
@@ -2947,7 +2981,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-vidikovac-luksuzan-penthouse-s-pogledom",
@@ -2964,7 +2998,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-vidikovac-luksuzan-trosoban-stan-na-drugom-katu",
@@ -2981,7 +3015,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-dvosoban-stan-na-top-lokaciji-s-liftom-i-garazom",
@@ -2998,7 +3032,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-dvosoban-stan-na-1-katu-na-boriku",
@@ -3015,7 +3049,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:vidikovac-novogradnja-dvosoban-stan-na-1-katu-s-pogledom",
@@ -3032,7 +3066,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-visnjik-luksuzan-stan-u-urbanoj-novogradnji-s-krovnom-terasom",
@@ -3049,7 +3083,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-plovanija-novogradnja-trosoban-stan-s-vrtom-prizemlje",
@@ -3066,7 +3100,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-plovanija-novogradnja-dvosoban-stan-pogled-na-more",
@@ -3083,7 +3117,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-trosoban-stan-s-krovnom-terasom-u-zadru-2",
@@ -3100,7 +3134,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-trosoban-stan-s-krovnom-terasom-u-zadru",
@@ -3117,7 +3151,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-dvosoban-stan-na-top-lokaciji-na-boriku-prizemlje-2",
@@ -3134,7 +3168,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-dvosoban-stan-na-top-lokaciji-na-boriku-zadar",
@@ -3151,7 +3185,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:prizemlje-komforan-dvosoban-stan-na-top-lokaciji-na-boriku-zadar",
@@ -3168,7 +3202,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-plovanija-komforan-stan-na-1-katu-novogradnje-useljiv",
@@ -3185,7 +3219,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-trosoban-stan-s-otvorenim-pogledom-stanovi",
@@ -3202,7 +3236,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-jednosoban-stan-na-drugom-katu-s-pogledom-skrocini",
@@ -3219,7 +3253,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-dvosoban-stan-na-drugom-katu-s-pogledom-skrocini",
@@ -3236,7 +3270,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-dvosoban-stan-na-drugom-katu-skrocini",
@@ -3253,7 +3287,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-jednosoban-stan-na-prvom-katu-skrocini",
@@ -3270,7 +3304,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-dvosoban-stan-na-prvom-katu-skrocini",
@@ -3287,7 +3321,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-dvosoban-stan-u-prizemlju-skrocini",
@@ -3304,7 +3338,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-dvosoban-stan-na-prvom-katu-skrocini-3",
@@ -3321,7 +3355,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-jednosoban-stan-u-prizemlju-skrocini",
@@ -3338,7 +3372,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-dvosoban-stan-na-prvom-katu-skrocini-2",
@@ -3355,7 +3389,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-diklo-suvremen-dvoetazan-stan-s-krovnom-terasom-i-jacuzijem",
@@ -3372,7 +3406,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-diklo-luksuzan-penthouse-u-maloj-urbanoj-vili-s-krovnim-bazenom",
@@ -3389,7 +3423,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-diklo-luksuzan-stan-u-maloj-urbanoj-vili-s-bazenom-novogradnja",
@@ -3406,7 +3440,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:prilika-moderan-dvosoban-stan-na-mocirama-u-zadru-u-novogradnji",
@@ -3423,7 +3457,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-dvosoban-stan-s-krovnom-terasom-u-zadru",
@@ -3440,7 +3474,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-komforan-dvosoban-stan-u-zadru-s-krovnom-terasom",
@@ -3457,7 +3491,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:urban-dvosoban-stan-u-modernoj-novogradnji-na-plovaniji-u-zadru",
@@ -3474,7 +3508,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:moderan-jednosoban-stan-u-urbanoj-novogradnji-na-mocirama-borik",
@@ -3491,7 +3525,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:vidikovac-dvosoban-stan-u-novogradnji-s-pogledom-na-more-i-otoke-2",
@@ -3508,7 +3542,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:visnjik-top-lokacija-dvosobni-stan-s-vrtom",
@@ -3525,7 +3559,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:visnjik-top-lokacija-dvosobni-stan-s-krovnom-terasom",
@@ -3542,7 +3576,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:prilika-bokanjac-atraktivni-dvoetazni-stanovi-u-novogradnji-1800-e-m2",
@@ -3559,7 +3593,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:komforan-dvosoban-stan-s-krovnom-terasom-i-podnim-grijanjem-na-vidikovcu-u-zadru",
@@ -3576,7 +3610,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:atraktivan-dvosoban-stan-na-vidikovcu-u-zadru",
@@ -3593,7 +3627,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:komforni-dvosobni-stan-u-prizemlju-s-vrtom-na-izvrsnoj-lokaciji-u-zadru",
@@ -3610,7 +3644,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:komforni-stan-u-prizemlju-s-vrtom-na-izvrsnoj-lokaciji-na-vidikovcu-u-zadru",
@@ -3627,7 +3661,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:atraktivni-stanovi-na-2-katu-u-urbanom-kompleksu-na-vidikovcu",
@@ -3644,7 +3678,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:atraktivni-stanovi-na-1-katu-u-urbanom-kompleksu-na-vidikovcu-u-zadru",
@@ -3661,7 +3695,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:atraktivni-stanovi-u-prizemlju-u-urbanom-kompleksu-na-vidikovcu-u-zadru",
@@ -3678,7 +3712,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-skrocini-novogradnja-s-pogledom-na-more-dvosoban",
@@ -3695,7 +3729,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-vidikovac-dvoetazni-luksuzni-stanovi-s-krovnom-terasom",
@@ -3712,7 +3746,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-dizajnerski-ureden-penthouse-s-krovnom-terasom-i-jacuzzijem",
@@ -3729,7 +3763,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:borik-dvosoban-stan-lijepo-ureden-76-m2-1-kat-top-lokacija2",
@@ -3746,7 +3780,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:novogradnja-borik-komforan-stan-u-prizemlju-s-vrtom-namjesten",
@@ -3763,7 +3797,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:luksuzan-jednosoban-stan-s-krovnom-terasom-na-skrocinima-u-zadru",
@@ -3780,7 +3814,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:zadar-plovanija-moderan-dvosoban-stan",
@@ -3797,7 +3831,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:visnjik-top-lokacija-komforan-jednosoban-stan",
@@ -3814,7 +3848,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:komforan-stan-u-modernoj-novogranji-na-vidikovcu",
@@ -3831,7 +3865,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:atrakivni-dvosobni-stan-u-urbanoj-novogradnji-na-petricima",
@@ -3848,7 +3882,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:impresivan-dvosoban-stan-u-zadru-u-mocirama",
@@ -3865,7 +3899,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:kvalitetan-dvosoban-stan-u-urbanom-kompleksu-na-mocirama",
@@ -3882,7 +3916,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:moderan-stan-na-mocirama-u-zadru",
@@ -3899,7 +3933,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:ekskluzivan-stan-modernog-dizajna-u-urbanom-kompleksu-na-mocirama",
@@ -3916,7 +3950,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:atraktivan-stan-modernog-dizajna-u-urbanom-kompleksu-na-mocirama",
@@ -3933,7 +3967,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:luksuzni-komforni-stan-modernog-dizajna-u-urbanom-kompleksu-na-mocirama",
@@ -3950,7 +3984,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   },
   {
    "id": "nelmar:atraktivni-stan-modernog-dizajna-u-urbanom-kompleksu-na-mocirama",
@@ -3967,7 +4001,7 @@
    "projekt": false,
    "novogradnja": true,
    "prvi_put_vidjen": "2026-10-29T20:21:07Z",
-   "zadnji_put_vidjen": "2026-10-30T05:39:09Z"
+   "zadnji_put_vidjen": "2026-10-31T05:33:38Z"
   }
  ]
 }
