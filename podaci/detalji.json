@@ -187,6 +187,10 @@
   "novogradnja": true,
   "sobe": 3
  },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-diklovac-5523.html": {
+  "novogradnja": false,
+  "sobe": 2
+ },
  "https://www.demare.hr/nekretnine/stanovi/zadar-novi-bokanjac-5408.html": {
   "novogradnja": true,
   "sobe": 3
@@ -408,5 +412,15 @@
   "kvart": "Mocire",
   "novogradnja": false,
   "sobe": 3
+ },
+ "https://www.nina-dom.hr/realestates/agency-7/realestate-2849-zadar-crvene-kuce-new-development-two-bedroom-apartment-with-loggia-and-2-parking": {
+  "kvart": "Crvene kuće",
+  "novogradnja": true,
+  "sobe": 3
+ },
+ "https://www.nina-dom.hr/realestates/agency-7/realestate-2860-zadar-put-petrica-spacious-apartment-with-4-bedrooms-and-loggia": {
+  "kvart": "Petrići",
+  "novogradnja": false,
+  "sobe": 4
  }
 }
