@@ -123,6 +123,14 @@
   "novogradnja": true,
   "sobe": 2
  },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-crvene-kuce-5537.html": {
+  "novogradnja": false,
+  "sobe": 1
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-crvene-kuce-5538.html": {
+  "novogradnja": false,
+  "sobe": 2
+ },
  "https://www.demare.hr/nekretnine/stanovi/zadar-diklo-4315.html": {
   "novogradnja": true,
   "sobe": 4
@@ -230,6 +238,26 @@
  "https://www.demare.hr/nekretnine/stanovi/zadar-novi-bokanjac-5522.html": {
   "novogradnja": true,
   "sobe": 2
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-novi-bokanjac-5532.html": {
+  "novogradnja": false,
+  "sobe": 2
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-novi-bokanjac-5533.html": {
+  "novogradnja": false,
+  "sobe": 3
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-novi-bokanjac-5534.html": {
+  "novogradnja": false,
+  "sobe": 1
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-novi-bokanjac-5535.html": {
+  "novogradnja": false,
+  "sobe": 1
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-novi-bokanjac-5536.html": {
+  "novogradnja": false,
+  "sobe": 1
  },
  "https://www.demare.hr/nekretnine/stanovi/zadar-petrici-5253.html": {
   "novogradnja": false,
