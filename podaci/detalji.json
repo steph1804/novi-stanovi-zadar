@@ -307,6 +307,10 @@
   "novogradnja": false,
   "sobe": 2
  },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-relja-5550.html": {
+  "novogradnja": false,
+  "sobe": 1
+ },
  "https://www.demare.hr/nekretnine/stanovi/zadar-skrocini-5214.html": {
   "novogradnja": true,
   "sobe": 3
@@ -322,6 +326,26 @@
  "https://www.demare.hr/nekretnine/stanovi/zadar-skrocini-5503.html": {
   "novogradnja": false,
   "sobe": 2
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-smiljevac-5545.html": {
+  "novogradnja": true,
+  "sobe": 1
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-smiljevac-5546.html": {
+  "novogradnja": true,
+  "sobe": 1
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-smiljevac-5547.html": {
+  "novogradnja": true,
+  "sobe": 1
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-smiljevac-5548.html": {
+  "novogradnja": true,
+  "sobe": 1
+ },
+ "https://www.demare.hr/nekretnine/stanovi/zadar-smiljevac-5549.html": {
+  "novogradnja": true,
+  "sobe": 1
  },
  "https://www.demare.hr/nekretnine/stanovi/zadar-vidikovac-4778.html": {
   "novogradnja": true,
